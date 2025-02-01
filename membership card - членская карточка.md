@@ -1,0 +1,1 @@
+# membership card - членская карточка

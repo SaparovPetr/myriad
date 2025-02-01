@@ -1,0 +1,1 @@
+# adapid group - группы

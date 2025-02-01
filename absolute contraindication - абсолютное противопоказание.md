@@ -1,0 +1,1 @@
+# absolute contraindication - абсолютное противопоказание

@@ -1,0 +1,1 @@
+# equetus pulcher - полосатый барабан

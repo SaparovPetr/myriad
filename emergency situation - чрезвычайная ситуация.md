@@ -1,0 +1,1 @@
+# emergency situation - чрезвычайная ситуация

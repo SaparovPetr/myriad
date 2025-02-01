@@ -1,0 +1,1 @@
+# pleurotus ostreatus - вёшенка обыкновенная

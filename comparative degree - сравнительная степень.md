@@ -1,0 +1,1 @@
+# comparative degree - сравнительная степень

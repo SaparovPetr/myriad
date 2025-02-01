@@ -1,0 +1,1 @@
+# living quarters - жилое помещение

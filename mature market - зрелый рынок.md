@@ -1,0 +1,1 @@
+# mature market - зрелый рынок

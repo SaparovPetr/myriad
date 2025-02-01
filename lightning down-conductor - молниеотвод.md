@@ -1,0 +1,1 @@
+# lightning down-conductor - молниеотвод

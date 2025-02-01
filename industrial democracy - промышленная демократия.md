@@ -1,0 +1,1 @@
+# industrial democracy - промышленная демократия

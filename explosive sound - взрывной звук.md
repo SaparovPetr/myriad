@@ -1,0 +1,1 @@
+# explosive sound - взрывной звук

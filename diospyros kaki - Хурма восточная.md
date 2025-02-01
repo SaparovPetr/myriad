@@ -1,0 +1,1 @@
+# diospyros kaki - Хурма восточная

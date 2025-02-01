@@ -1,0 +1,1 @@
+# local oscillator - автогенератор

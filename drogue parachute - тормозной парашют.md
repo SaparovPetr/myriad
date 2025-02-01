@@ -1,0 +1,1 @@
+# drogue parachute - тормозной парашют

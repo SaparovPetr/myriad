@@ -1,0 +1,1 @@
+# incurable disease - неизлечимая болезнь

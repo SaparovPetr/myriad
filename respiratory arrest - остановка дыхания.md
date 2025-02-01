@@ -1,0 +1,1 @@
+# respiratory arrest - остановка дыхания

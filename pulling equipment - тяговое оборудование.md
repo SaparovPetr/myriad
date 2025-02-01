@@ -1,0 +1,1 @@
+# pulling equipment - тяговое оборудование

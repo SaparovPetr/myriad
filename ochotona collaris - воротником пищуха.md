@@ -1,0 +1,1 @@
+# ochotona collaris - воротником пищуха

@@ -1,0 +1,1 @@
+# natural endowment - врождённый талант

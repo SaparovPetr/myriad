@@ -1,0 +1,1 @@
+# consecutive operation - последовательная операция

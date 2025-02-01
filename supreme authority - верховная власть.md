@@ -1,0 +1,1 @@
+# supreme authority - верховная власть

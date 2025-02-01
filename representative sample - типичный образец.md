@@ -1,0 +1,1 @@
+# representative sample - типичный образец

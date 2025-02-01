@@ -1,0 +1,1 @@
+# partnership certificate - сертификат партнерства

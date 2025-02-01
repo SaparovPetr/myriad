@@ -1,0 +1,1 @@
+# institutionalized - помещенный в учреждение

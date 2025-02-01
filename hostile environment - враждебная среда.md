@@ -1,0 +1,1 @@
+# hostile environment - враждебная среда

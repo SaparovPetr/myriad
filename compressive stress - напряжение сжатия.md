@@ -1,0 +1,1 @@
+# compressive stress - напряжение сжатия

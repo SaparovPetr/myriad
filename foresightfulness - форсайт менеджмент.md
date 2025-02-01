@@ -1,0 +1,1 @@
+# foresightfulness - форсайт менеджмент

@@ -1,0 +1,1 @@
+# coupling autotransformer - автотрансформатор связи

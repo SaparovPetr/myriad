@@ -1,0 +1,1 @@
+# ischaemic stroke - ишемический инсульт

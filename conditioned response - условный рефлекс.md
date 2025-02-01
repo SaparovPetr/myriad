@@ -1,0 +1,1 @@
+# conditioned response - условный рефлекс

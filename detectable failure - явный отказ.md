@@ -1,0 +1,1 @@
+# detectable failure - явный отказ

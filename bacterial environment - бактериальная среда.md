@@ -1,0 +1,1 @@
+# bacterial environment - бактериальная среда

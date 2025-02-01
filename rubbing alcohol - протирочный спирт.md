@@ -1,0 +1,1 @@
+# rubbing alcohol - протирочный спирт

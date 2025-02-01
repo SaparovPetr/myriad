@@ -1,0 +1,1 @@
+# poinsettia strain - табачная белокрылка

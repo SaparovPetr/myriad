@@ -1,0 +1,1 @@
+# ficus religiosa - фикус священный

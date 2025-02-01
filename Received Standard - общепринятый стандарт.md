@@ -1,0 +1,1 @@
+# Received Standard - общепринятый стандарт

@@ -1,0 +1,1 @@
+# domestic appliance - бытовая техника

@@ -1,0 +1,1 @@
+# anaesthetic agent - анестетики

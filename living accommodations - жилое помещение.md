@@ -1,0 +1,1 @@
+# living accommodations - жилое помещение

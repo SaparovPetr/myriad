@@ -1,0 +1,1 @@
+# stand at something - находиться

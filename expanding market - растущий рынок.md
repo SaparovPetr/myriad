@@ -1,0 +1,1 @@
+# expanding market - растущий рынок

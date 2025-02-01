@@ -1,0 +1,1 @@
+# equus asinus - дикий осёл

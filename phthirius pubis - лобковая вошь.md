@@ -1,0 +1,1 @@
+# phthirius pubis - лобковая вошь

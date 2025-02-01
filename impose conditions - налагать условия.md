@@ -1,0 +1,1 @@
+# impose conditions - налагать условия

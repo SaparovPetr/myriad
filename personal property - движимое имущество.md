@@ -1,0 +1,1 @@
+# personal property - движимое имущество

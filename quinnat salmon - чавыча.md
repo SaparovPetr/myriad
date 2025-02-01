@@ -1,0 +1,1 @@
+# quinnat salmon - чавыча

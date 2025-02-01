@@ -1,0 +1,1 @@
+# measuring instrument - измерительный прибор

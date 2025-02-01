@@ -1,0 +1,1 @@
+# sewing machine - швейная машинка

@@ -1,0 +1,1 @@
+# external drive - внешний диск

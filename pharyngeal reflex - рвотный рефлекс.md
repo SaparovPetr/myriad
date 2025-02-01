@@ -1,0 +1,1 @@
+# pharyngeal reflex - рвотный рефлекс

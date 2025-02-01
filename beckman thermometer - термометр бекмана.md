@@ -1,0 +1,1 @@
+# beckman thermometer - термометр бекмана

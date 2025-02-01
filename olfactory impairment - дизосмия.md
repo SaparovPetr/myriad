@@ -1,0 +1,1 @@
+# olfactory impairment - дизосмия

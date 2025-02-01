@@ -1,0 +1,1 @@
+# storage equipment - оборудование склада

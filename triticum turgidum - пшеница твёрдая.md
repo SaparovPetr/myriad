@@ -1,0 +1,1 @@
+# triticum turgidum - пшеница твёрдая

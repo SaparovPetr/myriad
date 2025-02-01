@@ -1,0 +1,1 @@
+# computer peripheral - периферийное устройство

@@ -1,0 +1,1 @@
+# handheld scanner - ручной сканер

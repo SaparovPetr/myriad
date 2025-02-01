@@ -1,0 +1,1 @@
+# spitting image - вылитая копия

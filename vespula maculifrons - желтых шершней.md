@@ -1,0 +1,1 @@
+# vespula maculifrons - желтых шершней

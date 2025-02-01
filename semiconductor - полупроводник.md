@@ -1,0 +1,1 @@
+# semiconductor - полупроводник

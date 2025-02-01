@@ -1,0 +1,1 @@
+# lycosa tarentula - апулийский тарантул

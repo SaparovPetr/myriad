@@ -1,0 +1,1 @@
+# manufactured item - произведённый продукт

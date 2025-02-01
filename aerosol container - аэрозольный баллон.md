@@ -1,0 +1,1 @@
+# aerosol container - аэрозольный баллон

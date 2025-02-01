@@ -1,0 +1,1 @@
+# frequency range - диапазон частот

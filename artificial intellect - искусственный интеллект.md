@@ -1,0 +1,1 @@
+# artificial intellect - искусственный интеллект

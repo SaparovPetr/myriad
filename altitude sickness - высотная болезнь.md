@@ -1,0 +1,1 @@
+# altitude sickness - высотная болезнь

@@ -1,0 +1,1 @@
+# trichinella spiralis - трихинеллы

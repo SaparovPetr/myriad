@@ -1,0 +1,1 @@
+# degasifying condenser - конденсатор-дегазатор

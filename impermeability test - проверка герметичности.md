@@ -1,0 +1,1 @@
+# impermeability test - проверка герметичности

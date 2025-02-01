@@ -1,0 +1,1 @@
+# struthio camelus - страус африканский

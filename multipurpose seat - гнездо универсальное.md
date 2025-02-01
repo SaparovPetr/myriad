@@ -1,0 +1,1 @@
+# multipurpose seat - гнездо универсальное

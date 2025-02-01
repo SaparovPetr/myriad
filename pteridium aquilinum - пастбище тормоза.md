@@ -1,0 +1,1 @@
+# pteridium aquilinum - пастбище тормоза

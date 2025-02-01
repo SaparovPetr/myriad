@@ -1,0 +1,1 @@
+# national stereotype - национальный стереотип

@@ -1,0 +1,1 @@
+# take pride in  - гордиться

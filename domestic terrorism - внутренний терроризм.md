@@ -1,0 +1,1 @@
+# domestic terrorism - внутренний терроризм

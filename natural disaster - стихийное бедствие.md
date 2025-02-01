@@ -1,0 +1,1 @@
+# natural disaster - стихийное бедствие

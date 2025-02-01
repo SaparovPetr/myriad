@@ -1,0 +1,1 @@
+# narrowbody aircraft - узкофюзеляжный самолёт

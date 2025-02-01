@@ -1,0 +1,1 @@
+# self - consciousness - чувство смущения

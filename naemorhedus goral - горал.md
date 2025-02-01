@@ -1,0 +1,1 @@
+# naemorhedus goral - горал

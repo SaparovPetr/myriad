@@ -1,0 +1,1 @@
+# cathartes aura - гриф - индейка

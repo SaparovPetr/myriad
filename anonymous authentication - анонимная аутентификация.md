@@ -1,0 +1,1 @@
+# anonymous authentication - анонимная аутентификация

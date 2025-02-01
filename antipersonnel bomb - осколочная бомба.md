@@ -1,0 +1,1 @@
+# antipersonnel bomb - осколочная бомба

@@ -1,0 +1,1 @@
+# zingiber officinale - лекарственный

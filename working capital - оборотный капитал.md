@@ -1,0 +1,1 @@
+# working capital - оборотный капитал

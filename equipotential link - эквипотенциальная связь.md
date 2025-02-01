@@ -1,0 +1,1 @@
+# equipotential link - эквипотенциальная связь

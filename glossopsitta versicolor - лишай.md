@@ -1,0 +1,1 @@
+# glossopsitta versicolor - лишай

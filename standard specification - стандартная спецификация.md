@@ -1,0 +1,1 @@
+# standard specification - стандартная спецификация

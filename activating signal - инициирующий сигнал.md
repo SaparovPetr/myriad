@@ -1,0 +1,1 @@
+# activating signal - инициирующий сигнал

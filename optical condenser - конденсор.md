@@ -1,0 +1,1 @@
+# optical condenser - конденсор

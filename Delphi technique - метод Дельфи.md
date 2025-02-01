@@ -1,0 +1,1 @@
+# Delphi technique - метод Дельфи

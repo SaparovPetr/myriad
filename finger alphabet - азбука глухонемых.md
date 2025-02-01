@@ -1,0 +1,1 @@
+# finger alphabet - азбука глухонемых

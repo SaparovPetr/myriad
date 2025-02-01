@@ -1,0 +1,1 @@
+# plague pneumonia - чумная пневмония

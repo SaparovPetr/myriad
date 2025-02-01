@@ -1,0 +1,1 @@
+# permanent settlement - постоянное поселение

@@ -1,0 +1,1 @@
+# wireless charging - беспроводная зарядка

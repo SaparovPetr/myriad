@@ -1,0 +1,1 @@
+# hidden pattern - скрытый образец

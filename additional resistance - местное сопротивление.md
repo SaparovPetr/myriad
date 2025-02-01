@@ -1,0 +1,1 @@
+# additional resistance - местное сопротивление

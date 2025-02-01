@@ -1,0 +1,1 @@
+# corpus amygdaloideum - миндалевидное тело

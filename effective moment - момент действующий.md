@@ -1,0 +1,1 @@
+# effective moment - момент действующий

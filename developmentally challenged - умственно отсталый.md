@@ -1,0 +1,1 @@
+# developmentally challenged - умственно отсталый

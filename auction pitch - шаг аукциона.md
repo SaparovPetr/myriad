@@ -1,0 +1,1 @@
+# auction pitch - шаг аукциона

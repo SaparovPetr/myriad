@@ -1,0 +1,1 @@
+# foreign corporation - зарубежная корпорация

@@ -1,0 +1,1 @@
+# structural sociology - структурный функционализм

@@ -1,0 +1,1 @@
+# collectivisation - коллективизация

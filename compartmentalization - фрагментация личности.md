@@ -1,0 +1,1 @@
+# compartmentalization - фрагментация личности

@@ -1,0 +1,1 @@
+# starch gelatinization - клейстеризация крахмала

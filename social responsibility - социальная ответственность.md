@@ -1,0 +1,1 @@
+# social responsibility - социальная ответственность

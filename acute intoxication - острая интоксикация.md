@@ -1,0 +1,1 @@
+# acute intoxication - острая интоксикация

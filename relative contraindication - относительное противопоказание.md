@@ -1,0 +1,1 @@
+# relative contraindication - относительное противопоказание

@@ -1,0 +1,1 @@
+# slick magazine - пятно журнала

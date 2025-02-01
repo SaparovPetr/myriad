@@ -1,0 +1,1 @@
+# itching palm - жадность

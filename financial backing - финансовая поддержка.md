@@ -1,0 +1,1 @@
+# financial backing - финансовая поддержка

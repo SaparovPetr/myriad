@@ -1,0 +1,1 @@
+# military press - армейский жим

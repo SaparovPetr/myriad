@@ -1,0 +1,1 @@
+# isolating valve - запорный клапан

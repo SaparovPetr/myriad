@@ -1,0 +1,1 @@
+# candlestick tulip - тюльпан клюзиуса

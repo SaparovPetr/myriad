@@ -1,0 +1,1 @@
+# origanum vulgare - майоран

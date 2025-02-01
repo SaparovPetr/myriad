@@ -1,0 +1,1 @@
+# concentrate resources - сосредотачивать ресурсы

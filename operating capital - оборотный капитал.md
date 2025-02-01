@@ -1,0 +1,1 @@
+# operating capital - оборотный капитал

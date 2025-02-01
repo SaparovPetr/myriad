@@ -1,0 +1,1 @@
+# cabinet section - секция шкафа

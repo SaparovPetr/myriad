@@ -1,0 +1,1 @@
+# thermonuclear fusion - термоядерный синтез

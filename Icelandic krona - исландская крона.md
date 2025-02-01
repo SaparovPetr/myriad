@@ -1,0 +1,1 @@
+# Icelandic krona - исландская крона

@@ -1,0 +1,1 @@
+# quarantine area - зона карантина

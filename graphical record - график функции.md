@@ -1,0 +1,1 @@
+# graphical record - график функции

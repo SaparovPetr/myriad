@@ -1,0 +1,1 @@
+# involuntary termination - принудительное увольнение

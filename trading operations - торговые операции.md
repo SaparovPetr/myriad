@@ -1,0 +1,1 @@
+# trading operations - торговые операции

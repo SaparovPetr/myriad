@@ -1,0 +1,1 @@
+# monitored variable - контролируемые параметры

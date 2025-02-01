@@ -1,0 +1,1 @@
+# anasa tristis - сквош ошибке

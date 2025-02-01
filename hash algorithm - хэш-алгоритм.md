@@ -1,0 +1,1 @@
+# hash algorithm - хэш-алгоритм

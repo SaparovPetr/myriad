@@ -1,0 +1,1 @@
+# peritonsillar abscess - паратонзиллярный абсцесс

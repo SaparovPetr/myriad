@@ -1,0 +1,1 @@
+# rumohra adiantiformis - румора адиантовидная

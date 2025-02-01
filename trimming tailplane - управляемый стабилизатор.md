@@ -1,0 +1,1 @@
+# trimming tailplane - управляемый стабилизатор

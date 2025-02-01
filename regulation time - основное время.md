@@ -1,0 +1,1 @@
+# regulation time - основное время

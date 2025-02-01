@@ -1,0 +1,1 @@
+# homo sapiens neanderthalensis - неандерталец

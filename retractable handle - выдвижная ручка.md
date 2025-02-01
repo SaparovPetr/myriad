@@ -1,0 +1,1 @@
+# retractable handle - выдвижная ручка

@@ -1,0 +1,1 @@
+# mutual exclusiveness - взаимоисключаемость

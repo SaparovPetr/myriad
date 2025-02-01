@@ -1,0 +1,1 @@
+# protected minute - защищенная минута

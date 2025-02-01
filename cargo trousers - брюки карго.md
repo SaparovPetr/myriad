@@ -1,0 +1,1 @@
+# cargo trousers - брюки карго

@@ -1,0 +1,1 @@
+# japanese beetle - хрущик японский

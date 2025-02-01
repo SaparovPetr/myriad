@@ -1,0 +1,1 @@
+# development target - объект разработки

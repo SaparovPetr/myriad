@@ -1,0 +1,1 @@
+# tensile state - растяжение

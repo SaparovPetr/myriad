@@ -1,0 +1,1 @@
+# extenuating circumstances - смягчающие обстоятельства

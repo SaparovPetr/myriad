@@ -1,0 +1,1 @@
+# certified check - заверенный чек

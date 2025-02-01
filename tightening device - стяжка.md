@@ -1,0 +1,1 @@
+# tightening device - стяжка

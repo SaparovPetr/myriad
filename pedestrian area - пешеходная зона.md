@@ -1,0 +1,1 @@
+# pedestrian area - пешеходная зона

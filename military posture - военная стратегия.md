@@ -1,0 +1,1 @@
+# military posture - военная стратегия

@@ -1,0 +1,1 @@
+# depleted uranium - обедненный уран

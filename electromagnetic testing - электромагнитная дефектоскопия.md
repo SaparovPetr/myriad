@@ -1,0 +1,1 @@
+# electromagnetic testing - электромагнитная дефектоскопия

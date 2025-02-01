@@ -1,0 +1,1 @@
+# financial instability - финансовая нестабильность

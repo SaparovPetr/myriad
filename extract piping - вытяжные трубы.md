@@ -1,0 +1,1 @@
+# extract piping - вытяжные трубы

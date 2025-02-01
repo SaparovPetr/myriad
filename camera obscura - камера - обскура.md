@@ -1,0 +1,1 @@
+# camera obscura - камера - обскура

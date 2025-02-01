@@ -1,0 +1,1 @@
+# composite sample - сборная проба

@@ -1,0 +1,1 @@
+# schizophrenic disorder - шизофрения

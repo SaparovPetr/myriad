@@ -1,0 +1,1 @@
+# tripping current - ток отключения

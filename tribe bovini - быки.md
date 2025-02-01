@@ -1,0 +1,1 @@
+# tribe bovini - быки

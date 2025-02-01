@@ -1,0 +1,1 @@
+# equipment specification - экспликация оборудования

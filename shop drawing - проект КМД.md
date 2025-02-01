@@ -1,0 +1,1 @@
+# shop drawing - проект КМД

@@ -1,0 +1,1 @@
+# popillia japonica - хрущик японский

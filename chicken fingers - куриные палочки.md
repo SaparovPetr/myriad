@@ -1,0 +1,1 @@
+# chicken fingers - куриные палочки

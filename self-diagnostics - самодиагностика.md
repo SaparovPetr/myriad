@@ -1,0 +1,1 @@
+# self-diagnostics - самодиагностика

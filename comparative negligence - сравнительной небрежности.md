@@ -1,0 +1,1 @@
+# comparative negligence - сравнительной небрежности

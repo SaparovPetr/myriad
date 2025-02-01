@@ -1,0 +1,1 @@
+# larus ridibundus - озёрная чайка

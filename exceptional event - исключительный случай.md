@@ -1,0 +1,1 @@
+# exceptional event - исключительный случай

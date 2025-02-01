@@ -1,0 +1,1 @@
+# allowance account - счёт резерва

@@ -1,0 +1,1 @@
+# substantial damage - существенный ущерб

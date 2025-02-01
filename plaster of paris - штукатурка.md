@@ -1,0 +1,1 @@
+# plaster of paris - штукатурка

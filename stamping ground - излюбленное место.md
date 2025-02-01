@@ -1,0 +1,1 @@
+# stamping ground - излюбленное место

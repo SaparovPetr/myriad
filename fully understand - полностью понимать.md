@@ -1,0 +1,1 @@
+# fully understand - полностью понимать

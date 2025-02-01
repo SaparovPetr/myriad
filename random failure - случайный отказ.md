@@ -1,0 +1,1 @@
+# random failure - случайный отказ

@@ -1,0 +1,1 @@
+# diversity principle - принцип разнообразия

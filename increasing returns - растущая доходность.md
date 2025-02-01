@@ -1,0 +1,1 @@
+# increasing returns - растущая доходность

@@ -1,0 +1,1 @@
+# plosive consonant - смычный согласный

@@ -1,0 +1,1 @@
+# emergency equipment - аварийное оборудование

@@ -1,0 +1,1 @@
+# ficus bengalensis - фикус бенгальский

@@ -1,0 +1,1 @@
+# reinforcement percentage - процент армирования

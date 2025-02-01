@@ -1,0 +1,1 @@
+# tourist resources - туристские ресурсы

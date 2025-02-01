@@ -1,0 +1,1 @@
+# stock buyback - выкуп акций

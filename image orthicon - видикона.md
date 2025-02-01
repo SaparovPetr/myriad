@@ -1,0 +1,1 @@
+# image orthicon - видикона

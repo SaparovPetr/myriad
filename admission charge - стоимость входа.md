@@ -1,0 +1,1 @@
+# admission charge - стоимость входа

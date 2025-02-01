@@ -1,0 +1,1 @@
+# competency model - модель компетенций

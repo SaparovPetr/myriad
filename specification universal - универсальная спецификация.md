@@ -1,0 +1,1 @@
+# specification universal - универсальная спецификация

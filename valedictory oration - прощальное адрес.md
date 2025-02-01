@@ -1,0 +1,1 @@
+# valedictory oration - прощальное адрес

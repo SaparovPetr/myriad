@@ -1,0 +1,1 @@
+# pain threshold - болевой порог

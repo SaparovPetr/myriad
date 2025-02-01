@@ -1,0 +1,1 @@
+# compatible applications - совместимые приложения

@@ -1,0 +1,1 @@
+# anaphylactic shock - анафилактический шок

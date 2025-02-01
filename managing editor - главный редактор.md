@@ -1,0 +1,1 @@
+# managing editor - главный редактор

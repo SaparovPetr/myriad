@@ -1,0 +1,1 @@
+# diversionary attack - диверсионной атаки

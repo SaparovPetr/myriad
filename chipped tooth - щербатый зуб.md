@@ -1,0 +1,1 @@
+# chipped tooth - щербатый зуб

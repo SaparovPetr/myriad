@@ -1,0 +1,1 @@
+# noncondensable gas - неконденсирующийся пар

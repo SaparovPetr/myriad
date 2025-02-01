@@ -1,0 +1,1 @@
+# disenfranchisement - лишение прав

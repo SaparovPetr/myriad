@@ -1,0 +1,1 @@
+# bypass condenser - обход конденсатора

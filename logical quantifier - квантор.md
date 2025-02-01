@@ -1,0 +1,1 @@
+# logical quantifier - квантор

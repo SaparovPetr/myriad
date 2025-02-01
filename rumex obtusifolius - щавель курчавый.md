@@ -1,0 +1,1 @@
+# rumex obtusifolius - щавель курчавый

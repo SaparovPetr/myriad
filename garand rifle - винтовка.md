@@ -1,0 +1,1 @@
+# garand rifle - винтовка

@@ -1,0 +1,1 @@
+# recessive gene - рецессивный ген

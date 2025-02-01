@@ -1,0 +1,1 @@
+# operating conditions - эксплуатационные условия

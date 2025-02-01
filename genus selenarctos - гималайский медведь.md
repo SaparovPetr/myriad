@@ -1,0 +1,1 @@
+# genus selenarctos - гималайский медведь

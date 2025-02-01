@@ -1,0 +1,1 @@
+# operant conditioning - оперантное обусловливание

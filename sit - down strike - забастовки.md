@@ -1,0 +1,1 @@
+# sit - down strike - забастовки

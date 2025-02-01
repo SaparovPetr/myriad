@@ -1,0 +1,1 @@
+# clostridium botulinum - возбудитель ботулизма

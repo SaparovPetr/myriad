@@ -1,0 +1,1 @@
+# capital of nigeria - абуджа

@@ -1,0 +1,1 @@
+# major corporation - большая корпорация

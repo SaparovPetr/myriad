@@ -1,0 +1,1 @@
+# cerebrovascular accident - апоплексический удар

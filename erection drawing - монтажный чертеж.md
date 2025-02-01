@@ -1,0 +1,1 @@
+# erection drawing - монтажный чертеж

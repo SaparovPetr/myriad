@@ -1,0 +1,1 @@
+# payment conditions - условия оплаты

@@ -1,0 +1,1 @@
+# transformation ratio - коэффициент трансформации

@@ -1,0 +1,1 @@
+# pecuniary resource - финансовый ресурс

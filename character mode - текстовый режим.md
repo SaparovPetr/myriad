@@ -1,0 +1,1 @@
+# character mode - текстовый режим

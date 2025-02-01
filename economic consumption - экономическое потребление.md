@@ -1,0 +1,1 @@
+# economic consumption - экономическое потребление

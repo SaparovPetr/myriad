@@ -1,0 +1,1 @@
+# wear through - протирать

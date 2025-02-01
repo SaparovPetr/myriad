@@ -1,0 +1,1 @@
+# broad - mindedness - широта кругозора

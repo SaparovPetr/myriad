@@ -1,0 +1,1 @@
+# analogue input - аналоговый ввод

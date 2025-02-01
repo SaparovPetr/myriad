@@ -1,0 +1,1 @@
+# alpha channel - альфа-канал

@@ -1,0 +1,1 @@
+# visual inspection - визуальный осмотр

@@ -1,0 +1,1 @@
+# transmitting aerial - антенна

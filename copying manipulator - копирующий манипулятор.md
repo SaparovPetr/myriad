@@ -1,0 +1,1 @@
+# copying manipulator - копирующий манипулятор

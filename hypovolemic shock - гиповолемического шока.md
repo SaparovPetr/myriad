@@ -1,0 +1,1 @@
+# hypovolemic shock - гиповолемического шока

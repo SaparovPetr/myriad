@@ -1,0 +1,1 @@
+# musculus deltoideus - дельтоид

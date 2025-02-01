@@ -1,0 +1,1 @@
+# lepiota cepaestipes - лук стволовых

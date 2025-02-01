@@ -1,0 +1,1 @@
+# medical dressing - медицинская повязка

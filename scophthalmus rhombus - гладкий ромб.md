@@ -1,0 +1,1 @@
+# scophthalmus rhombus - гладкий ромб

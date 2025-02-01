@@ -1,0 +1,1 @@
+# permanganic acid - марганцовая кислота

@@ -1,0 +1,1 @@
+# megohmmeter-multimeter - мегоомметр-мультиметр

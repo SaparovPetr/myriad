@@ -1,0 +1,1 @@
+# building foundation - основание здания

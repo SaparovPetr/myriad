@@ -1,0 +1,1 @@
+# controlling force - управляющая сила

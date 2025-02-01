@@ -1,0 +1,1 @@
+# operational range - рабочий диапазон

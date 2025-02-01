@@ -1,0 +1,1 @@
+# amethystine python - аметистовый питон

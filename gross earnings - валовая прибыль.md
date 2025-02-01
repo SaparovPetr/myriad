@@ -1,0 +1,1 @@
+# gross earnings - валовая прибыль

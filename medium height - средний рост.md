@@ -1,0 +1,1 @@
+# medium height - средний рост

@@ -1,0 +1,1 @@
+# annunciation desk - пульт оповещения

@@ -1,0 +1,1 @@
+# marketing objective - маркетинговая цель

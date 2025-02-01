@@ -1,0 +1,1 @@
+# accommodation facilities - средства размещения

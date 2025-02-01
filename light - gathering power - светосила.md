@@ -1,0 +1,1 @@
+# light - gathering power - светосила

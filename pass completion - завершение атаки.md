@@ -1,0 +1,1 @@
+# pass completion - завершение атаки

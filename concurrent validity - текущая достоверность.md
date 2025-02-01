@@ -1,0 +1,1 @@
+# concurrent validity - текущая достоверность

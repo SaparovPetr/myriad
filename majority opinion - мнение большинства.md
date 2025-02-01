@@ -1,0 +1,1 @@
+# majority opinion - мнение большинства

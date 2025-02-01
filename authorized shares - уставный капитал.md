@@ -1,0 +1,1 @@
+# authorized shares - уставный капитал

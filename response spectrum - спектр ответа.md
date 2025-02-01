@@ -1,0 +1,1 @@
+# response spectrum - спектр ответа

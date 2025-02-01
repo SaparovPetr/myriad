@@ -1,0 +1,1 @@
+# cooling circuit - холодильный цикл

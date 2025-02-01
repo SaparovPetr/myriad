@@ -1,0 +1,1 @@
+# vibration transmission - передача колебаний

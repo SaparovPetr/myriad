@@ -1,0 +1,1 @@
+# sitting trot - сидит рысь

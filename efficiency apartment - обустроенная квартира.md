@@ -1,0 +1,1 @@
+# efficiency apartment - обустроенная квартира

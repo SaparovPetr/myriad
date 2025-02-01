@@ -1,0 +1,1 @@
+# leptinotarsa decemlineata - колорадский жук

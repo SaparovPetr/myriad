@@ -1,0 +1,1 @@
+# time of origin - выдержка

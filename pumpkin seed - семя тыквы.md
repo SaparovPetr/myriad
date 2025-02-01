@@ -1,0 +1,1 @@
+# pumpkin seed - семя тыквы

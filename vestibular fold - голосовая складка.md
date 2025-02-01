@@ -1,0 +1,1 @@
+# vestibular fold - голосовая складка

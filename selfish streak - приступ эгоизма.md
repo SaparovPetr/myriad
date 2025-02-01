@@ -1,0 +1,1 @@
+# selfish streak - приступ эгоизма

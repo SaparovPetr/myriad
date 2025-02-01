@@ -1,0 +1,1 @@
+# radiator grille - решетка радиатора

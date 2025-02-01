@@ -1,0 +1,1 @@
+# sanitary condition - санитарное состояние

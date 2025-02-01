@@ -1,0 +1,1 @@
+# walkdown operator - оператор-обходчик

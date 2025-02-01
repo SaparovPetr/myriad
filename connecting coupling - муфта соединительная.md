@@ -1,0 +1,1 @@
+# connecting coupling - муфта соединительная

@@ -1,0 +1,1 @@
+# game misconduct - удаление игрока

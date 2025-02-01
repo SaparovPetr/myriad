@@ -1,0 +1,1 @@
+# degree centigrade - градус цельсия

@@ -1,0 +1,1 @@
+# strix occidentalis - пятнистая неясыть

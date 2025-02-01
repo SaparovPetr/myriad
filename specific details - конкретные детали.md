@@ -1,0 +1,1 @@
+# specific details - конкретные детали

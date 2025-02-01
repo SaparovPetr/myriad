@@ -1,0 +1,1 @@
+# intellectual property - интеллектуальная собственность

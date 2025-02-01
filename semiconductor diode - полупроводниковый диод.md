@@ -1,0 +1,1 @@
+# semiconductor diode - полупроводниковый диод

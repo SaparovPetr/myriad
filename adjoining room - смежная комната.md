@@ -1,0 +1,1 @@
+# adjoining room - смежная комната

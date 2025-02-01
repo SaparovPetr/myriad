@@ -1,0 +1,1 @@
+# impersonal quest - безличный поиск

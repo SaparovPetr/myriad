@@ -1,0 +1,1 @@
+# counterclockwise - против часовой стрелки

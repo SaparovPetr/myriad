@@ -1,0 +1,1 @@
+# milking parlor - доильный зал

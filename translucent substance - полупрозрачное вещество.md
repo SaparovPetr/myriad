@@ -1,0 +1,1 @@
+# translucent substance - полупрозрачное вещество

@@ -1,0 +1,1 @@
+# informal diction - разговорный стиль

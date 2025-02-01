@@ -1,0 +1,1 @@
+# electoral college - коллегия выборщиков

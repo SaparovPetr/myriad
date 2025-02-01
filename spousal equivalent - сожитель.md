@@ -1,0 +1,1 @@
+# spousal equivalent - сожитель

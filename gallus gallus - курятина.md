@@ -1,0 +1,1 @@
+# gallus gallus - курятина

@@ -1,0 +1,1 @@
+# striped killifish - полосатый убийца

@@ -1,0 +1,1 @@
+# assert oneself - быть напористым

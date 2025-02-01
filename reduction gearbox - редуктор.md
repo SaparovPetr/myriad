@@ -1,0 +1,1 @@
+# reduction gearbox - редуктор

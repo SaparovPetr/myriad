@@ -1,0 +1,1 @@
+# labor secretary - министр труда

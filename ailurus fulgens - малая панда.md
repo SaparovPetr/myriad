@@ -1,0 +1,1 @@
+# ailurus fulgens - малая панда

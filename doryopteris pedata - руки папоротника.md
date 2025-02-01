@@ -1,0 +1,1 @@
+# doryopteris pedata - руки папоротника

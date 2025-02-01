@@ -1,0 +1,1 @@
+# temperate zone - умеренный пояс

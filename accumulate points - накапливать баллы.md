@@ -1,0 +1,1 @@
+# accumulate points - накапливать баллы

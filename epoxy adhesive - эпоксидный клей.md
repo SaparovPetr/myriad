@@ -1,0 +1,1 @@
+# epoxy adhesive - эпоксидный клей

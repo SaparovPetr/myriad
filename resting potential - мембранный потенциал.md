@@ -1,0 +1,1 @@
+# resting potential - мембранный потенциал

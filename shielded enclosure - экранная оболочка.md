@@ -1,0 +1,1 @@
+# shielded enclosure - экранная оболочка

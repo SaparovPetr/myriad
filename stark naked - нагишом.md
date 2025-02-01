@@ -1,0 +1,1 @@
+# stark naked - нагишом

@@ -1,0 +1,1 @@
+# frontal cortex - лобная доля

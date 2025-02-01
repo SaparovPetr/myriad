@@ -1,0 +1,1 @@
+# electrical signal - электрический сигнал

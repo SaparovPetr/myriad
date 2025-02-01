@@ -1,0 +1,1 @@
+# ionizing radiation - ионизирующее излучение

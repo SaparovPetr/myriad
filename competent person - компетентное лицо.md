@@ -1,0 +1,1 @@
+# competent person - компетентное лицо

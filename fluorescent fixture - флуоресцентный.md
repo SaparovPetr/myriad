@@ -1,0 +1,1 @@
+# fluorescent fixture - флуоресцентный

@@ -1,0 +1,1 @@
+# self - annihilation - самоубийство

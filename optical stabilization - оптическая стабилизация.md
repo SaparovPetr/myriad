@@ -1,0 +1,1 @@
+# optical stabilization - оптическая стабилизация

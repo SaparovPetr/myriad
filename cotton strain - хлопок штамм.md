@@ -1,0 +1,1 @@
+# cotton strain - хлопок штамм

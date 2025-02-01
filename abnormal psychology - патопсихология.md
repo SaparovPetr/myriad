@@ -1,0 +1,1 @@
+# abnormal psychology - патопсихология

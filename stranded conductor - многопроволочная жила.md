@@ -1,0 +1,1 @@
+# stranded conductor - многопроволочная жила

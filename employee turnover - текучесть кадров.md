@@ -1,0 +1,1 @@
+# employee turnover - текучесть кадров

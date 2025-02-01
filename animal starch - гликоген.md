@@ -1,0 +1,1 @@
+# animal starch - гликоген

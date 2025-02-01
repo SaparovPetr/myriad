@@ -1,0 +1,1 @@
+# colligative property - колликативное свойство

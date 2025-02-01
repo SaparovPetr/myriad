@@ -1,0 +1,1 @@
+# sectionalisation - деление

@@ -1,0 +1,1 @@
+# abject poverty - крайняя нищета

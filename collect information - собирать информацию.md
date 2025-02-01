@@ -1,0 +1,1 @@
+# collect information - собирать информацию

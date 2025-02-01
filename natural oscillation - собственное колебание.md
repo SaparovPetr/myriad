@@ -1,0 +1,1 @@
+# natural oscillation - собственное колебание

@@ -1,0 +1,1 @@
+# passport stamp - отметка

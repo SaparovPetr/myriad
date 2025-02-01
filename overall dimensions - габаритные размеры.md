@@ -1,0 +1,1 @@
+# overall dimensions - габаритные размеры

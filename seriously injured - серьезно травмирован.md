@@ -1,0 +1,1 @@
+# seriously injured - серьезно травмирован

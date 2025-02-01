@@ -1,0 +1,1 @@
+# industrial standards - промышленные нормы

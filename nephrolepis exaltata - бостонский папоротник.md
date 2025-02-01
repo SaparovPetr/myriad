@@ -1,0 +1,1 @@
+# nephrolepis exaltata - бостонский папоротник

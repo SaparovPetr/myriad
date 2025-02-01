@@ -1,0 +1,1 @@
+# style consistency - консистентность стиля

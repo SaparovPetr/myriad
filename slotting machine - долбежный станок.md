@@ -1,0 +1,1 @@
+# slotting machine - долбежный станок

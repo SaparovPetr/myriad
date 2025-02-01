@@ -1,0 +1,1 @@
+# manufacturing products - производство товаров

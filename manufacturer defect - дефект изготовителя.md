@@ -1,0 +1,1 @@
+# manufacturer defect - дефект изготовителя

@@ -1,0 +1,1 @@
+# ixodes persulcatus - таёжный клещ

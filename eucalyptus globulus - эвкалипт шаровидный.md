@@ -1,0 +1,1 @@
+# eucalyptus globulus - эвкалипт шаровидный

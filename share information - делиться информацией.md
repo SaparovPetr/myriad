@@ -1,0 +1,1 @@
+# share information - делиться информацией

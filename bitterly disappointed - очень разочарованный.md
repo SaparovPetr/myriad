@@ -1,0 +1,1 @@
+# bitterly disappointed - очень разочарованный

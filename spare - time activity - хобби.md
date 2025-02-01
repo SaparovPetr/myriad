@@ -1,0 +1,1 @@
+# spare - time activity - хобби

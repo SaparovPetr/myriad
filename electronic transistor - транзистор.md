@@ -1,0 +1,1 @@
+# electronic transistor - транзистор

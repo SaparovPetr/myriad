@@ -1,0 +1,1 @@
+# reporting weight - исходный вес

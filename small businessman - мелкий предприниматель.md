@@ -1,0 +1,1 @@
+# small businessman - мелкий предприниматель

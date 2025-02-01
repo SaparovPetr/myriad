@@ -1,0 +1,1 @@
+# equipment description - описание оборудования

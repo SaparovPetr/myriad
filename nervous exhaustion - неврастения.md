@@ -1,0 +1,1 @@
+# nervous exhaustion - неврастения

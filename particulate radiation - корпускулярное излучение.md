@@ -1,0 +1,1 @@
+# particulate radiation - корпускулярное излучение

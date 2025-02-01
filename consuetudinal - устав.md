@@ -1,0 +1,1 @@
+# consuetudinal - устав

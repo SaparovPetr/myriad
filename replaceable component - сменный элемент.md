@@ -1,0 +1,1 @@
+# replaceable component - сменный элемент

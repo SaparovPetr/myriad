@@ -1,0 +1,1 @@
+# faint - hearted - боязливый

@@ -1,0 +1,1 @@
+# generalization - общее правило

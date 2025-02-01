@@ -1,0 +1,1 @@
+# business objective - деловая цель

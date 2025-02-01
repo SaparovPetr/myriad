@@ -1,0 +1,1 @@
+# secondary education - среднее образование

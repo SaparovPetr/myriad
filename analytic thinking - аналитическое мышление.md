@@ -1,0 +1,1 @@
+# analytic thinking - аналитическое мышление

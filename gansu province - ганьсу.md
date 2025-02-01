@@ -1,0 +1,1 @@
+# gansu province - ганьсу

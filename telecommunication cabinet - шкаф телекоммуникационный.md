@@ -1,0 +1,1 @@
+# telecommunication cabinet - шкаф телекоммуникационный

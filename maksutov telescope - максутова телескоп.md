@@ -1,0 +1,1 @@
+# maksutov telescope - максутова телескоп

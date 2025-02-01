@@ -1,0 +1,1 @@
+# supermarket chain - сеть супермаркетов

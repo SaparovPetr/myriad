@@ -1,0 +1,1 @@
+# accommodation conditions - условия размещения

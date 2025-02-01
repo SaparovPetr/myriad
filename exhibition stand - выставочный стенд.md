@@ -1,0 +1,1 @@
+# exhibition stand - выставочный стенд

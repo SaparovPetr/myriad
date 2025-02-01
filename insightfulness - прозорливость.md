@@ -1,0 +1,1 @@
+# insightfulness - прозорливость

@@ -1,0 +1,1 @@
+# copper scrap - медный лом

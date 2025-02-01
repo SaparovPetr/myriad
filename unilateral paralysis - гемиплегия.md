@@ -1,0 +1,1 @@
+# unilateral paralysis - гемиплегия

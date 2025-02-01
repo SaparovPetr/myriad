@@ -1,0 +1,1 @@
+# araucaria cunninghamii - обруч сосна

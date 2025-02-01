@@ -1,0 +1,1 @@
+# blattella germanica - рыжий таракан

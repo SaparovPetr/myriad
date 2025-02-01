@@ -1,0 +1,1 @@
+# lobar pneumonia - долевая пневмония

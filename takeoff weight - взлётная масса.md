@@ -1,0 +1,1 @@
+# takeoff weight - взлётная масса

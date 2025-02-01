@@ -1,0 +1,1 @@
+# luggage collection - проверка багажа

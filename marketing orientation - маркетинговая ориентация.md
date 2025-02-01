@@ -1,0 +1,1 @@
+# marketing orientation - маркетинговая ориентация

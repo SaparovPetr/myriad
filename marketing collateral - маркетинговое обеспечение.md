@@ -1,0 +1,1 @@
+# marketing collateral - маркетинговое обеспечение

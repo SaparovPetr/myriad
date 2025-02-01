@@ -1,0 +1,1 @@
+# lymantria dispar - непарный шелкопряд

@@ -1,0 +1,1 @@
+# ixodes scapularis - черноногий клещ

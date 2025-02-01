@@ -1,0 +1,1 @@
+# cost reduction - снижение затрат

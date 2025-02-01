@@ -1,0 +1,1 @@
+# annunciation panel - пульт оповещения

@@ -1,0 +1,1 @@
+# market capitalisation - рыночная капитализация

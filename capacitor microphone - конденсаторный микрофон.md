@@ -1,0 +1,1 @@
+# capacitor microphone - конденсаторный микрофон

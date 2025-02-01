@@ -1,0 +1,1 @@
+# australopithecus afarensis - австралопитек афарский

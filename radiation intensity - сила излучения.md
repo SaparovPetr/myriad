@@ -1,0 +1,1 @@
+# radiation intensity - сила излучения

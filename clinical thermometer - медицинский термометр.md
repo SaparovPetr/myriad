@@ -1,0 +1,1 @@
+# clinical thermometer - медицинский термометр

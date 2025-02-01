@@ -1,0 +1,1 @@
+# arsenous oxide - оксид мышьяка

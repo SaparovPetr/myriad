@@ -1,0 +1,1 @@
+# acquiring organization - организация-покупатель

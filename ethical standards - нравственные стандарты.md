@@ -1,0 +1,1 @@
+# ethical standards - нравственные стандарты

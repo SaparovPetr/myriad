@@ -1,0 +1,1 @@
+# indirect compensation - непрямая компенсация

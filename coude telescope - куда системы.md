@@ -1,0 +1,1 @@
+# coude telescope - куда системы

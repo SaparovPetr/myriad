@@ -1,0 +1,1 @@
+# ventilation stack - вентиляционная труба

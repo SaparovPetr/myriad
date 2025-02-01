@@ -1,0 +1,1 @@
+# lower - middle - class - мещанский

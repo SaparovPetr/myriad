@@ -1,0 +1,1 @@
+# closed fracture - закрытый перелом

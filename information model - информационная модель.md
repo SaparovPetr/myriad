@@ -1,0 +1,1 @@
+# information model - информационная модель

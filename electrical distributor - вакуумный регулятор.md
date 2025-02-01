@@ -1,0 +1,1 @@
+# electrical distributor - вакуумный регулятор

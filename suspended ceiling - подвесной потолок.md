@@ -1,0 +1,1 @@
+# suspended ceiling - подвесной потолок

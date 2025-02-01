@@ -1,0 +1,1 @@
+# excitation winding - обмотка возбуждения

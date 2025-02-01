@@ -1,0 +1,1 @@
+# mental exhaustion - нервное истощение

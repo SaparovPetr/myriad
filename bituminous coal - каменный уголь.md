@@ -1,0 +1,1 @@
+# bituminous coal - каменный уголь

@@ -1,0 +1,1 @@
+# inpatient hospital - стационарная больница

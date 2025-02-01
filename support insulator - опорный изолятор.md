@@ -1,0 +1,1 @@
+# support insulator - опорный изолятор

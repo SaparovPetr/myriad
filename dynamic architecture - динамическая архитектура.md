@@ -1,0 +1,1 @@
+# dynamic architecture - динамическая архитектура

@@ -1,0 +1,1 @@
+# articulatio genus - коленный сустав

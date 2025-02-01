@@ -1,0 +1,1 @@
+# performance indicator - показатель деятельности

@@ -1,0 +1,1 @@
+# stringed instrument - струнный инструмент

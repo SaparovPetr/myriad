@@ -1,0 +1,1 @@
+# management style - стиль руководства

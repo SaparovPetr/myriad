@@ -1,0 +1,1 @@
+# general anaesthesia - общий наркоз

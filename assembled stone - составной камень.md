@@ -1,0 +1,1 @@
+# assembled stone - составной камень

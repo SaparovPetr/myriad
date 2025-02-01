@@ -1,0 +1,1 @@
+# dramatic contrast - резкий контраст

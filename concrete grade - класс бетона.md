@@ -1,0 +1,1 @@
+# concrete grade - класс бетона

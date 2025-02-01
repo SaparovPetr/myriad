@@ -1,0 +1,1 @@
+# circulating current - циркулирующий ток

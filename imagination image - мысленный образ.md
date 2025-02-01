@@ -1,0 +1,1 @@
+# imagination image - мысленный образ

@@ -1,0 +1,1 @@
+# sampling period - период выработки

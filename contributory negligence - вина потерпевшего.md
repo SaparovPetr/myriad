@@ -1,0 +1,1 @@
+# contributory negligence - вина потерпевшего

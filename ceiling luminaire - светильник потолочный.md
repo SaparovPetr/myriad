@@ -1,0 +1,1 @@
+# ceiling luminaire - светильник потолочный

@@ -1,0 +1,1 @@
+# rotating mechanism - поворотный механизм

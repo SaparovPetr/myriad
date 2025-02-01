@@ -1,0 +1,1 @@
+# sectionalization - деление на части

@@ -1,0 +1,1 @@
+# cohesive whole - единое целое

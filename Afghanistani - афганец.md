@@ -1,0 +1,1 @@
+# Afghanistani - афганец

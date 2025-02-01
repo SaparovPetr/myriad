@@ -1,0 +1,1 @@
+# cynara scolymus - артишок испанский

@@ -1,0 +1,1 @@
+# placement category - категория размещения

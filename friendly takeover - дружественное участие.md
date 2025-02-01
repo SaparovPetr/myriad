@@ -1,0 +1,1 @@
+# friendly takeover - дружественное участие

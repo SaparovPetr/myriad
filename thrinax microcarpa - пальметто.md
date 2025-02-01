@@ -1,0 +1,1 @@
+# thrinax microcarpa - пальметто

@@ -1,0 +1,1 @@
+# lighting luminaire - светильник

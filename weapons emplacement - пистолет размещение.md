@@ -1,0 +1,1 @@
+# weapons emplacement - пистолет размещение

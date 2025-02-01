@@ -1,0 +1,1 @@
+# kind - heartedness - добросердечность

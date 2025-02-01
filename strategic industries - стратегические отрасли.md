@@ -1,0 +1,1 @@
+# strategic industries - стратегические отрасли

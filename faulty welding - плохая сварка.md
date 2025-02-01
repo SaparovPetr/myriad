@@ -1,0 +1,1 @@
+# faulty welding - плохая сварка

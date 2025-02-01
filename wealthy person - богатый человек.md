@@ -1,0 +1,1 @@
+# wealthy person - богатый человек

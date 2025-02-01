@@ -1,0 +1,1 @@
+# go into liquidation - обанкротиться

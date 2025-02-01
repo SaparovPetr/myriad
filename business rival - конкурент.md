@@ -1,0 +1,1 @@
+# business rival - конкурент

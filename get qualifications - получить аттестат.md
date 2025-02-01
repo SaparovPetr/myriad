@@ -1,0 +1,1 @@
+# get qualifications - получить аттестат

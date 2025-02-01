@@ -1,0 +1,1 @@
+# sloping trough - наклонный желоб

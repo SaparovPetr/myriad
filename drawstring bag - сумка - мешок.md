@@ -1,0 +1,1 @@
+# drawstring bag - сумка - мешок

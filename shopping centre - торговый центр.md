@@ -1,0 +1,1 @@
+# shopping centre - торговый центр

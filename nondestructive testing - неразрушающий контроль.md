@@ -1,0 +1,1 @@
+# nondestructive testing - неразрушающий контроль

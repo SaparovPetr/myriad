@@ -1,0 +1,1 @@
+# nuclear facility - ядерный объект

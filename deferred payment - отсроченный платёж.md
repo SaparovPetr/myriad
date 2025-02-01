@@ -1,0 +1,1 @@
+# deferred payment - отсроченный платёж

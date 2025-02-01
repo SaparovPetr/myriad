@@ -1,0 +1,1 @@
+# equus hemionus - кулан

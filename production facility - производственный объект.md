@@ -1,0 +1,1 @@
+# production facility - производственный объект

@@ -1,0 +1,1 @@
+# heat absorption - теплоусвоение

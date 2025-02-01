@@ -1,0 +1,1 @@
+# eczema marginatum - пахового дерматомикоза

@@ -1,0 +1,1 @@
+# oblique bandage - косая повязка

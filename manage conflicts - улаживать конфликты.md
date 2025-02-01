@@ -1,0 +1,1 @@
+# manage conflicts - улаживать конфликты

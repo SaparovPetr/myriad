@@ -1,0 +1,1 @@
+# active ingredient - активный компонент

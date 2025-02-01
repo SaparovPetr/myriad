@@ -1,0 +1,1 @@
+# outlet channel - отводящий канал

@@ -1,0 +1,1 @@
+# blatta orientalis - чёрный таракан

@@ -1,0 +1,1 @@
+# portable computer - портативный компьютер

@@ -1,0 +1,1 @@
+# opening pressure - давление открытия

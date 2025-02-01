@@ -1,0 +1,1 @@
+# agglutinating activity - агглютинирующей деятельности

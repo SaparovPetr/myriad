@@ -1,0 +1,1 @@
+# open fireplace - открытый камин

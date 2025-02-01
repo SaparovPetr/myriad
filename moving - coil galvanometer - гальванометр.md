@@ -1,0 +1,1 @@
+# moving - coil galvanometer - гальванометр

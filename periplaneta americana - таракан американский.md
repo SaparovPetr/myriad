@@ -1,0 +1,1 @@
+# periplaneta americana - таракан американский

@@ -1,0 +1,1 @@
+# holiday destination - место отдыха

@@ -1,0 +1,1 @@
+# sterling silver - стерлинг

@@ -1,0 +1,1 @@
+# sk - ampicillin - ампициллин

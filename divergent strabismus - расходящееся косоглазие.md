@@ -1,0 +1,1 @@
+# divergent strabismus - расходящееся косоглазие

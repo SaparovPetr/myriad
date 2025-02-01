@@ -1,0 +1,1 @@
+# anoplophora glabripennis - азиатский усач

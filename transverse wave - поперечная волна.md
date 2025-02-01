@@ -1,0 +1,1 @@
+# transverse wave - поперечная волна

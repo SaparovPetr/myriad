@@ -1,0 +1,1 @@
+# tourism activities - туристская деятельность

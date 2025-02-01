@@ -1,0 +1,1 @@
+# characterization - словесный портрет

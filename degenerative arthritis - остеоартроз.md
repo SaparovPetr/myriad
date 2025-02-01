@@ -1,0 +1,1 @@
+# degenerative arthritis - остеоартроз

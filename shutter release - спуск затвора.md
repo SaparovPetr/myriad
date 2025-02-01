@@ -1,0 +1,1 @@
+# shutter release - спуск затвора

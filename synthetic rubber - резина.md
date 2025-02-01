@@ -1,0 +1,1 @@
+# synthetic rubber - резина

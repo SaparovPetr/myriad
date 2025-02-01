@@ -1,0 +1,1 @@
+# selective service - военная обязанность

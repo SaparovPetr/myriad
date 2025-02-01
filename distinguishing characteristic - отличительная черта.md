@@ -1,0 +1,1 @@
+# distinguishing characteristic - отличительная черта

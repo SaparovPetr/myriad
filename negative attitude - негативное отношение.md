@@ -1,0 +1,1 @@
+# negative attitude - негативное отношение

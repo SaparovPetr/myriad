@@ -1,0 +1,1 @@
+# entente cordiale - сердечное согласие

@@ -1,0 +1,1 @@
+# manufacturing equipment - производство оборудования

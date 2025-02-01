@@ -1,0 +1,1 @@
+# direct speech - прямая речь

@@ -1,0 +1,1 @@
+# mechanical fastener - машиностроительный крепеж

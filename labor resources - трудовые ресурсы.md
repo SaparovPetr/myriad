@@ -1,0 +1,1 @@
+# labor resources - трудовые ресурсы

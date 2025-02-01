@@ -1,0 +1,1 @@
+# unusually wealthy - необычайно богатый

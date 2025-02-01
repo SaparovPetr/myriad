@@ -1,0 +1,1 @@
+# ballistic galvanometer - баллистического гальванометра

@@ -1,0 +1,1 @@
+# gymnastic apparatus - гимнастический снаряд

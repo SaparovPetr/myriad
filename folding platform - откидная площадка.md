@@ -1,0 +1,1 @@
+# folding platform - откидная площадка

@@ -1,0 +1,1 @@
+# propertyless - неимущий

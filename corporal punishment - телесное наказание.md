@@ -1,0 +1,1 @@
+# corporal punishment - телесное наказание

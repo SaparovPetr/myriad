@@ -1,0 +1,1 @@
+# external factor - внешний фактор

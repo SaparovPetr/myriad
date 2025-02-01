@@ -1,0 +1,1 @@
+# managerial skills - навыки управления

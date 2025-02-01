@@ -1,0 +1,1 @@
+# pediculus corporis - платяная вошь

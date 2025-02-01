@@ -1,0 +1,1 @@
+# personal qualities - личные качества

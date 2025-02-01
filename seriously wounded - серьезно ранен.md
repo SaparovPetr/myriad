@@ -1,0 +1,1 @@
+# seriously wounded - серьезно ранен

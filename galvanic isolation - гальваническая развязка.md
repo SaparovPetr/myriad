@@ -1,0 +1,1 @@
+# galvanic isolation - гальваническая развязка

@@ -1,0 +1,1 @@
+# manufactured home - жилой трейлер

@@ -1,0 +1,1 @@
+# generalized seizure - генерализованных приступов

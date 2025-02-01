@@ -1,0 +1,1 @@
+# reinforcing stimulus - подкрепляющий стимул

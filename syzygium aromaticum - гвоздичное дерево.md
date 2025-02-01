@@ -1,0 +1,1 @@
+# syzygium aromaticum - гвоздичное дерево

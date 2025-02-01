@@ -1,0 +1,1 @@
+# directional antenna - направленная антенна

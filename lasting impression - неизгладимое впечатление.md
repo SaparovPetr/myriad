@@ -1,0 +1,1 @@
+# lasting impression - неизгладимое впечатление

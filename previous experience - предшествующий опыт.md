@@ -1,0 +1,1 @@
+# previous experience - предшествующий опыт

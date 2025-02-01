@@ -1,0 +1,1 @@
+# yersinia pestis - чумная палочка

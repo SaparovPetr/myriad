@@ -1,0 +1,1 @@
+# mechanical method - механический метод

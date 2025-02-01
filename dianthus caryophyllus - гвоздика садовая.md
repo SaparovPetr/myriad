@@ -1,0 +1,1 @@
+# dianthus caryophyllus - гвоздика садовая

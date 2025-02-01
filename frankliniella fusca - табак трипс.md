@@ -1,0 +1,1 @@
+# frankliniella fusca - табак трипс

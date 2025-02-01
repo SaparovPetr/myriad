@@ -1,0 +1,1 @@
+# attributive genitive - атрибутивная форма

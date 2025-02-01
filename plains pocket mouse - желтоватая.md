@@ -1,0 +1,1 @@
+# plains pocket mouse - желтоватая
