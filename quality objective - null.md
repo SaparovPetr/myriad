@@ -1,1 +1,1 @@
-# quality objective - null
+# quality objective -

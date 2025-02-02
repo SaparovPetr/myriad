@@ -1,1 +1,1 @@
-# Nelson՛s Column - null
+# Nelson՛s Column -

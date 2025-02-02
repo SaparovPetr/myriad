@@ -1,1 +1,1 @@
-# promotional event - null
+# promotional event -

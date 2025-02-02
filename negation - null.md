@@ -1,1 +1,1 @@
-# negation - null
+# negation -

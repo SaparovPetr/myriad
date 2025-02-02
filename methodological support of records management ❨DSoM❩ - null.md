@@ -1,1 +1,1 @@
-# methodological support of records management ❨DSoM❩ - null
+# methodological support of records management ❨DSoM❩ -
