@@ -1,1 +1,1 @@
-# cable connection: two-wire - подключение кабеля: двухпроводное
+# cable connection two-wire - подключение кабеля двухпроводное
