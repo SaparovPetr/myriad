@@ -1,6 +1,8 @@
 # Differ - расходиться во мнениях
 
-We differ with her.Experts differ in opinions.
+We differ with her.
+
+Experts differ in opinions.
 
 differ in opinions
 
