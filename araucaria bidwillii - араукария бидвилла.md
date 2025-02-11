@@ -1,0 +1,1 @@
+# araucaria bidwillii - араукария бидвилла

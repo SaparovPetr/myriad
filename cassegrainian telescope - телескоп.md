@@ -1,0 +1,1 @@
+# cassegrainian telescope - телескоп

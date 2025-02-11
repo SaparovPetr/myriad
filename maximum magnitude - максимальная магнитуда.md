@@ -1,0 +1,1 @@
+# maximum magnitude - максимальная магнитуда

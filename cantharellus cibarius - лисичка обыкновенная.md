@@ -1,0 +1,1 @@
+# cantharellus cibarius - лисичка обыкновенная

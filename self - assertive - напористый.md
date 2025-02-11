@@ -1,0 +1,1 @@
+# self - assertive - напористый

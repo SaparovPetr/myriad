@@ -1,0 +1,1 @@
+# shetland sheep dog - шелти

@@ -1,0 +1,1 @@
+# bearing support - несущая опора

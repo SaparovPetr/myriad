@@ -1,0 +1,1 @@
+# inflict suffering - причинять страдания

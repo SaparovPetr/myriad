@@ -1,0 +1,1 @@
+# precipitated gold - осаждённое золото

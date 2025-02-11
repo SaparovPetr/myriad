@@ -1,0 +1,1 @@
+# vegetation cover - растительный покров

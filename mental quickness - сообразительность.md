@@ -1,0 +1,1 @@
+# mental quickness - сообразительность

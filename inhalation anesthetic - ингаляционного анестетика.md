@@ -1,0 +1,1 @@
+# inhalation anesthetic - ингаляционного анестетика

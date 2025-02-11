@@ -1,0 +1,1 @@
+# confirm attendance - подтверждать присутствие

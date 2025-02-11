@@ -1,0 +1,1 @@
+# overlapping hoop - огибающий хомут

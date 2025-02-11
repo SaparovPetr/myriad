@@ -1,0 +1,1 @@
+# drilling platform - буровая платформа

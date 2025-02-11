@@ -1,0 +1,1 @@
+# amygdaloid nucleus - миндалевидное тело

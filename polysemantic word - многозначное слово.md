@@ -1,0 +1,1 @@
+# polysemantic word - многозначное слово

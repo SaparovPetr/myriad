@@ -1,0 +1,1 @@
+# ticket clerk - кассир

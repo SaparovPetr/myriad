@@ -1,0 +1,1 @@
+# bacterial plaque - бактериальный налёт

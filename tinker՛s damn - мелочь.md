@@ -1,0 +1,1 @@
+# tinker՛s damn - мелочь

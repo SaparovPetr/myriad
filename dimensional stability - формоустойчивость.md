@@ -1,0 +1,1 @@
+# dimensional stability - формоустойчивость

@@ -1,0 +1,1 @@
+# simulated military operation - манёвры

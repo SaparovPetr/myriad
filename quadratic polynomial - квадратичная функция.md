@@ -1,0 +1,1 @@
+# quadratic polynomial - квадратичная функция

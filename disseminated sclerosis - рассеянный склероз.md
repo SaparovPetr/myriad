@@ -1,0 +1,1 @@
+# disseminated sclerosis - рассеянный склероз

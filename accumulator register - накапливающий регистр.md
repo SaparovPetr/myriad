@@ -1,0 +1,1 @@
+# accumulator register - накапливающий регистр

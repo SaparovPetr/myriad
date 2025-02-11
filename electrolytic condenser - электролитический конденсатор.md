@@ -1,0 +1,1 @@
+# electrolytic condenser - электролитический конденсатор

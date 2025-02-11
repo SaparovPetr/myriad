@@ -1,0 +1,1 @@
+# stator coil - статор

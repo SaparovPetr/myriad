@@ -1,0 +1,1 @@
+# junction terminal - соединительная клемма

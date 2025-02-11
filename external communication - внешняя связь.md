@@ -1,0 +1,1 @@
+# external communication - внешняя связь

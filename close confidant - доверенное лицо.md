@@ -1,0 +1,1 @@
+# close confidant - доверенное лицо

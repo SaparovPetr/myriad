@@ -1,0 +1,1 @@
+# availability factor - коэффициент готовности

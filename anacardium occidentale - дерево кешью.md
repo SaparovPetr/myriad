@@ -1,0 +1,1 @@
+# anacardium occidentale - дерево кешью

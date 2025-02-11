@@ -1,0 +1,1 @@
+# weather condition - погодное условие

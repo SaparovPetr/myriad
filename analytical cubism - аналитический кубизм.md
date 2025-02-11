@@ -1,0 +1,1 @@
+# analytical cubism - аналитический кубизм

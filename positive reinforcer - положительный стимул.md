@@ -1,0 +1,1 @@
+# positive reinforcer - положительный стимул

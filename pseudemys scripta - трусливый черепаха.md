@@ -1,0 +1,1 @@
+# pseudemys scripta - трусливый черепаха

@@ -1,0 +1,1 @@
+# misappropriate - присваивать

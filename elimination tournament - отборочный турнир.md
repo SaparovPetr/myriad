@@ -1,0 +1,1 @@
+# elimination tournament - отборочный турнир

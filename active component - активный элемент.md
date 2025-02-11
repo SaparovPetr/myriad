@@ -1,0 +1,1 @@
+# active component - активный элемент

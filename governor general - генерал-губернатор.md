@@ -1,0 +1,1 @@
+# governor general - генерал-губернатор

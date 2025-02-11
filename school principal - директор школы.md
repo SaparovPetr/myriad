@@ -1,0 +1,1 @@
+# school principal - директор школы

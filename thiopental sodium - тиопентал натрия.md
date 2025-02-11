@@ -1,0 +1,1 @@
+# thiopental sodium - тиопентал натрия

@@ -1,0 +1,1 @@
+# personal belongings - личные вещи

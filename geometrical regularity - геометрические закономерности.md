@@ -1,0 +1,1 @@
+# geometrical regularity - геометрические закономерности

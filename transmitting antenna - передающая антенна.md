@@ -1,0 +1,1 @@
+# transmitting antenna - передающая антенна

@@ -1,0 +1,1 @@
+# momentary contact - мгновенный контакт

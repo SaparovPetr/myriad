@@ -1,0 +1,1 @@
+# storage condition - условие хранения

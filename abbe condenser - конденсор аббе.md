@@ -1,0 +1,1 @@
+# abbe condenser - конденсор аббе

@@ -1,0 +1,1 @@
+# secondary winding - вторичная обмотка

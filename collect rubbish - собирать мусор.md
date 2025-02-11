@@ -1,0 +1,1 @@
+# collect rubbish - собирать мусор

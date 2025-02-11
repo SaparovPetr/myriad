@@ -1,0 +1,1 @@
+# have qualifications - обладать квалификациями

@@ -1,0 +1,1 @@
+# management application - управляющее приложение

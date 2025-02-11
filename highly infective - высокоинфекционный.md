@@ -1,0 +1,1 @@
+# highly infective - высокоинфекционный

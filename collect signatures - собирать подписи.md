@@ -1,0 +1,1 @@
+# collect signatures - собирать подписи

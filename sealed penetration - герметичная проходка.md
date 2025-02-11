@@ -1,0 +1,1 @@
+# sealed penetration - герметичная проходка

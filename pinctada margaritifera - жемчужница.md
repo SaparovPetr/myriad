@@ -1,0 +1,1 @@
+# pinctada margaritifera - жемчужница

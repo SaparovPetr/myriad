@@ -1,0 +1,1 @@
+# goal congruence - совпадение целей

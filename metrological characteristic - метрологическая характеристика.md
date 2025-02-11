@@ -1,0 +1,1 @@
+# metrological characteristic - метрологическая характеристика

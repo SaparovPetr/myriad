@@ -1,0 +1,1 @@
+# interior lightning - внутреннее освещение

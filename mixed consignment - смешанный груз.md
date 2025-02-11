@@ -1,0 +1,1 @@
+# mixed consignment - смешанный груз

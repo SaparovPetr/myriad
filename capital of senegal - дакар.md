@@ -1,0 +1,1 @@
+# capital of senegal - дакар

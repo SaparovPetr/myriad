@@ -1,0 +1,1 @@
+# equipment designation - обозначение оборудования

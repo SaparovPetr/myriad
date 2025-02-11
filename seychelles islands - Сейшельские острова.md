@@ -1,0 +1,1 @@
+# seychelles islands - Сейшельские острова

@@ -1,0 +1,1 @@
+# claim responsibility - брать ответственность

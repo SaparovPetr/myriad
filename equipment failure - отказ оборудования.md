@@ -1,0 +1,1 @@
+# equipment failure - отказ оборудования

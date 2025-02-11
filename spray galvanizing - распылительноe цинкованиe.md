@@ -1,0 +1,1 @@
+# spray galvanizing - распылительноe цинкованиe

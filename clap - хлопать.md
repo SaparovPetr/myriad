@@ -1,0 +1,3 @@
+# Clap - хлопать
+
+- Clap loudly

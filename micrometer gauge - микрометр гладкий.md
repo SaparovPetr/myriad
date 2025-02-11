@@ -1,0 +1,1 @@
+# micrometer gauge - микрометр гладкий

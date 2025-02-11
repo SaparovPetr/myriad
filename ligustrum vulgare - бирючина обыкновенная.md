@@ -1,0 +1,1 @@
+# ligustrum vulgare - бирючина обыкновенная

@@ -1,0 +1,1 @@
+# parliamentary monarchy - парламентская монархия

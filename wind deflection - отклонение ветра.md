@@ -1,0 +1,1 @@
+# wind deflection - отклонение ветра

@@ -1,0 +1,1 @@
+# functional structure - функциональная структура

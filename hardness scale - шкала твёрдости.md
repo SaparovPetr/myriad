@@ -1,0 +1,1 @@
+# hardness scale - шкала твёрдости

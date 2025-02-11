@@ -1,0 +1,1 @@
+# initial capital - начальный капитал

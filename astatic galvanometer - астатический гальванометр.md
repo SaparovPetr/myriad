@@ -1,0 +1,1 @@
+# astatic galvanometer - астатический гальванометр

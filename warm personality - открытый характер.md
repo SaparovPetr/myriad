@@ -1,0 +1,1 @@
+# warm personality - открытый характер

@@ -1,0 +1,1 @@
+# mesocricetus auratus - сирийский хомячок

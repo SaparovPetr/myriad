@@ -1,0 +1,1 @@
+# scottish terrier - скотч - терьер

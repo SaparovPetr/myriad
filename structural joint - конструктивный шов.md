@@ -1,0 +1,1 @@
+# structural joint - конструктивный шов

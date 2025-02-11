@@ -1,0 +1,1 @@
+# drawing dimension - проектный размер

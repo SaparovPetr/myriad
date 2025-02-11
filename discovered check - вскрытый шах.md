@@ -1,0 +1,1 @@
+# discovered check - вскрытый шах

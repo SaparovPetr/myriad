@@ -1,0 +1,1 @@
+# magnetic inclination - магнитное наклонение

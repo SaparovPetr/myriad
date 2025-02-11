@@ -1,0 +1,1 @@
+# annual turnover - годовой оборот

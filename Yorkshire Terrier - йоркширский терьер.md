@@ -1,0 +1,1 @@
+# Yorkshire Terrier - йоркширский терьер

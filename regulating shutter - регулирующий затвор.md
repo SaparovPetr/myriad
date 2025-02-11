@@ -1,0 +1,1 @@
+# regulating shutter - регулирующий затвор

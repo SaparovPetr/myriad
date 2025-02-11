@@ -1,0 +1,1 @@
+# industrial - strength - очень прочный

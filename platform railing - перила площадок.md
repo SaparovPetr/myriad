@@ -1,0 +1,1 @@
+# platform railing - перила площадок

@@ -1,0 +1,1 @@
+# medical community - медицинские работники

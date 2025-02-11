@@ -1,0 +1,1 @@
+# consideration set - набор брендов

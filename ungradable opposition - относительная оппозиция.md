@@ -1,0 +1,1 @@
+# ungradable opposition - относительная оппозиция

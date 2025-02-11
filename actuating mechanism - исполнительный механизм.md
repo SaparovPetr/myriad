@@ -1,0 +1,1 @@
+# actuating mechanism - исполнительный механизм

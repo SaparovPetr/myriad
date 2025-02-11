@@ -1,0 +1,1 @@
+# power of observation - наблюдательность

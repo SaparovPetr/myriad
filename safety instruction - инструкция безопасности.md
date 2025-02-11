@@ -1,0 +1,1 @@
+# safety instruction - инструкция безопасности

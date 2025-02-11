@@ -1,0 +1,1 @@
+# temperature reduction - охлаждение

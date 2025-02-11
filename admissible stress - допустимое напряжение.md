@@ -1,0 +1,1 @@
+# admissible stress - допустимое напряжение

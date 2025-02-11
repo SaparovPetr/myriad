@@ -1,0 +1,1 @@
+# speech impediment - дефект речи

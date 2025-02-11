@@ -1,0 +1,3 @@
+# Outside - внешний
+
+- outside management

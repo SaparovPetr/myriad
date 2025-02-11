@@ -1,0 +1,1 @@
+# quercus ellipsoidalis - дуб овальнолистный

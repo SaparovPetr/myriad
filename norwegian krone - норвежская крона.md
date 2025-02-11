@@ -1,0 +1,1 @@
+# norwegian krone - норвежская крона

@@ -1,0 +1,1 @@
+# gymnogyps californianus - калифорнийский кондор

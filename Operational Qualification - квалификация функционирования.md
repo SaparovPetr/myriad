@@ -1,0 +1,1 @@
+# Operational Qualification - квалификация функционирования

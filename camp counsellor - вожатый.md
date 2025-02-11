@@ -1,0 +1,1 @@
+# camp counsellor - вожатый

@@ -1,0 +1,1 @@
+# fracture toughness - вязкость разрушения

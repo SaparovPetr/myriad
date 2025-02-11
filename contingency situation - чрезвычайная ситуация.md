@@ -1,0 +1,1 @@
+# contingency situation - чрезвычайная ситуация

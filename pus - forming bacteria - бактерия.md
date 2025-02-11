@@ -1,0 +1,1 @@
+# pus - forming bacteria - бактерия

@@ -1,0 +1,1 @@
+# horizontal stabilizer - горизонтальный стабилизатор

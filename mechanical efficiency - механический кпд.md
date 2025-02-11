@@ -1,0 +1,1 @@
+# mechanical efficiency - механический кпд

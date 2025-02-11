@@ -1,0 +1,1 @@
+# bedsitting room - жилая комната

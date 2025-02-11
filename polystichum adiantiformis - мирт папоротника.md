@@ -1,0 +1,1 @@
+# polystichum adiantiformis - мирт папоротника

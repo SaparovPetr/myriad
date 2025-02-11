@@ -1,0 +1,1 @@
+# recording equipment - регистрирующая аппаратура

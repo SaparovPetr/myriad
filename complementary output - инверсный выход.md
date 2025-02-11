@@ -1,0 +1,1 @@
+# complementary output - инверсный выход

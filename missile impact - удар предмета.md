@@ -1,0 +1,1 @@
+# missile impact - удар предмета

@@ -1,0 +1,1 @@
+# strategic alliance - стратегический альянс

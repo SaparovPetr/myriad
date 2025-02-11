@@ -1,0 +1,1 @@
+# novelty product - новое изделие

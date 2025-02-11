@@ -1,0 +1,1 @@
+# stressful experience - стрессовая ситуация

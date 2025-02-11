@@ -1,0 +1,1 @@
+# dithered colour - размытый цвет

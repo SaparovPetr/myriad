@@ -1,0 +1,1 @@
+# vespula maculata - наглую шершень

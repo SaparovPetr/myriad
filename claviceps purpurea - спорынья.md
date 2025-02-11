@@ -1,0 +1,1 @@
+# claviceps purpurea - спорынья

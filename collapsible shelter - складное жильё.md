@@ -1,0 +1,1 @@
+# collapsible shelter - складное жильё

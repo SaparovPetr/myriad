@@ -1,0 +1,1 @@
+# medical condition - состояние здоровья

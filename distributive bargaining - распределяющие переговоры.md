@@ -1,0 +1,1 @@
+# distributive bargaining - распределяющие переговоры

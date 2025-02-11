@@ -1,0 +1,1 @@
+# prohibition party - запрет партии

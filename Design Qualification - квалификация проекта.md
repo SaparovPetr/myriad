@@ -1,0 +1,1 @@
+# Design Qualification - квалификация проекта

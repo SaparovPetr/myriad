@@ -1,0 +1,1 @@
+# nonvolatile storage - энергонезависимая память

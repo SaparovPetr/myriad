@@ -1,0 +1,1 @@
+# personal consumption - личное потребление

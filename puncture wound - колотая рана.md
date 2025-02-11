@@ -1,0 +1,1 @@
+# puncture wound - колотая рана

@@ -1,0 +1,1 @@
+# interface cabinet - интерфейсный шкаф

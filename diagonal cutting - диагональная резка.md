@@ -1,0 +1,1 @@
+# diagonal cutting - диагональная резка

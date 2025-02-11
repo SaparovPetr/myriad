@@ -1,0 +1,1 @@
+# casually dressed - небрежно одетый

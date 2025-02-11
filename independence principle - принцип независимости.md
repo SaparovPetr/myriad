@@ -1,0 +1,1 @@
+# independence principle - принцип независимости

@@ -1,0 +1,1 @@
+# price competition - ценовая конкуренция

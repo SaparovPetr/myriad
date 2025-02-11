@@ -1,0 +1,1 @@
+# valuable asset - ценный актив

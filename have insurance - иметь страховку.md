@@ -1,0 +1,1 @@
+# have insurance - иметь страховку

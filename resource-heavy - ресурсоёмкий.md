@@ -1,0 +1,1 @@
+# resource-heavy - ресурсоёмкий

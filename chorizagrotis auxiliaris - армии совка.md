@@ -1,0 +1,1 @@
+# chorizagrotis auxiliaris - армии совка

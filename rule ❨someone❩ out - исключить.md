@@ -1,0 +1,1 @@
+# rule ❨someone❩ out - исключить

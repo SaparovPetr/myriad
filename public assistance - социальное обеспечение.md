@@ -1,0 +1,1 @@
+# public assistance - социальное обеспечение

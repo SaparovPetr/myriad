@@ -1,0 +1,1 @@
+# scolytus multistriatus - заболонник струйчатый

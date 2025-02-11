@@ -1,0 +1,1 @@
+# additional resistanse - добавочное сопротивление

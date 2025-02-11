@@ -1,0 +1,1 @@
+# imaginary situation - гипотетическая ситуация

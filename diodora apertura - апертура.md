@@ -1,0 +1,1 @@
+# diodora apertura - апертура

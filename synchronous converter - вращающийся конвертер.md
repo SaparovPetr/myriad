@@ -1,0 +1,1 @@
+# synchronous converter - вращающийся конвертер

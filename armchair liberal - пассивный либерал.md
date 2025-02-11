@@ -1,0 +1,1 @@
+# armchair liberal - пассивный либерал

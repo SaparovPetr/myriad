@@ -1,0 +1,1 @@
+# holding period - период владения

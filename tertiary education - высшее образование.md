@@ -1,0 +1,1 @@
+# tertiary education - высшее образование

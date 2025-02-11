@@ -1,0 +1,1 @@
+# spontaneous decision - спонтанное решение

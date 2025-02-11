@@ -1,0 +1,1 @@
+# emotional disorder - аффективное расстройство

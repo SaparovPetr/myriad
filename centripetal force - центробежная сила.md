@@ -1,0 +1,1 @@
+# centripetal force - центробежная сила

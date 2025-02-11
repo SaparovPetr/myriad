@@ -1,0 +1,1 @@
+# kilocycle per second - килогерц

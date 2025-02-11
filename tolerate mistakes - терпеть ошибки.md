@@ -1,0 +1,1 @@
+# tolerate mistakes - терпеть ошибки

@@ -1,0 +1,1 @@
+# absolute frequency - абсолютной частоты

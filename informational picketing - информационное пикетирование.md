@@ -1,0 +1,1 @@
+# informational picketing - информационное пикетирование

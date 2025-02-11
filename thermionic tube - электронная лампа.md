@@ -1,0 +1,1 @@
+# thermionic tube - электронная лампа

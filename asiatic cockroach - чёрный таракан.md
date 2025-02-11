@@ -1,0 +1,1 @@
+# asiatic cockroach - чёрный таракан

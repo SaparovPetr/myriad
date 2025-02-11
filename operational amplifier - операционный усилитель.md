@@ -1,0 +1,1 @@
+# operational amplifier - операционный усилитель

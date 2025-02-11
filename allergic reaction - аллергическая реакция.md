@@ -1,0 +1,1 @@
+# allergic reaction - аллергическая реакция

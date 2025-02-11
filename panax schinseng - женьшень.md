@@ -1,0 +1,1 @@
+# panax schinseng - женьшень

@@ -1,0 +1,1 @@
+# package dimensions - размеры груза

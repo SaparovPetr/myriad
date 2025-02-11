@@ -1,0 +1,1 @@
+# chinook salmon - чавыча

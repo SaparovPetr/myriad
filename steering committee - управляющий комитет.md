@@ -1,0 +1,1 @@
+# steering committee - управляющий комитет

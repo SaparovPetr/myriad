@@ -1,0 +1,1 @@
+# nemine contradicente - единогласно

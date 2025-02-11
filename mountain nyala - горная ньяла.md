@@ -1,0 +1,1 @@
+# mountain nyala - горная ньяла

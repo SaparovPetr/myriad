@@ -1,0 +1,1 @@
+# receive physiotherapy - получать физиотерапию

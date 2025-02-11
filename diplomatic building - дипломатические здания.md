@@ -1,0 +1,1 @@
+# diplomatic building - дипломатические здания

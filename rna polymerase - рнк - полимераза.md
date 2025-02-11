@@ -1,0 +1,1 @@
+# rna polymerase - рнк - полимераза

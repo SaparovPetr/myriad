@@ -1,0 +1,1 @@
+# transmission channel - канал связи

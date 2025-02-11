@@ -1,0 +1,1 @@
+# junction barrier - барьер полосы

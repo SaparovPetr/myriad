@@ -1,0 +1,1 @@
+# inspection hatch - люк смотровой

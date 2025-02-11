@@ -1,0 +1,1 @@
+# assume knowledge - приобретать знания

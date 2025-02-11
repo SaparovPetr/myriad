@@ -1,0 +1,1 @@
+# magazine publisher - издатель журнала

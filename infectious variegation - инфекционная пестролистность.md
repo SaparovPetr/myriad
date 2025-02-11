@@ -1,0 +1,1 @@
+# infectious variegation - инфекционная пестролистность

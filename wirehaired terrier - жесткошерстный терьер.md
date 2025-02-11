@@ -1,0 +1,1 @@
+# wirehaired terrier - жесткошерстный терьер

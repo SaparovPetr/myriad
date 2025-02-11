@@ -1,0 +1,1 @@
+# accumulate debt - накапливать долг

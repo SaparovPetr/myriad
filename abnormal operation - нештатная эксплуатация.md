@@ -1,0 +1,1 @@
+# abnormal operation - нештатная эксплуатация

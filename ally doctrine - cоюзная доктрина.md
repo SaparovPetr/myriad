@@ -1,0 +1,1 @@
+# ally doctrine - cоюзная доктрина

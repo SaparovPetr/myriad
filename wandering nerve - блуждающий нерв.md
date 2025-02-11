@@ -1,0 +1,1 @@
+# wandering nerve - блуждающий нерв

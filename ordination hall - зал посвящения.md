@@ -1,0 +1,1 @@
+# ordination hall - зал посвящения

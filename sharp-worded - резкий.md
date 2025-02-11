@@ -1,0 +1,1 @@
+# sharp-worded - резкий

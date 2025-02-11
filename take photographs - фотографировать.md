@@ -1,0 +1,1 @@
+# take photographs - фотографировать

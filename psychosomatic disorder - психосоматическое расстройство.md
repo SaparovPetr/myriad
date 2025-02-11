@@ -1,0 +1,1 @@
+# psychosomatic disorder - психосоматическое расстройство

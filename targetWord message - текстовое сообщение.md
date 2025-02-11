@@ -1,0 +1,1 @@
+# targetWord message - текстовое сообщение

@@ -1,0 +1,1 @@
+# think straight - ясно мыслить

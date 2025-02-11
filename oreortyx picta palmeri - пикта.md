@@ -1,0 +1,1 @@
+# oreortyx picta palmeri - пикта

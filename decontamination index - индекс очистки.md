@@ -1,0 +1,1 @@
+# decontamination index - индекс очистки

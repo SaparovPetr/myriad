@@ -1,0 +1,1 @@
+# catering zone - кафетерий

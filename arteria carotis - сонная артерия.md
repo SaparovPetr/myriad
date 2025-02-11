@@ -1,0 +1,1 @@
+# arteria carotis - сонная артерия

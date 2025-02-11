@@ -1,0 +1,1 @@
+# subsistence farming - натуральное хозяйство

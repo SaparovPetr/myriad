@@ -1,0 +1,1 @@
+# allocate resources - распределять ресурсы

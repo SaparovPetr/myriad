@@ -1,0 +1,1 @@
+# automatic washer - стиральная машина

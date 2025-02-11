@@ -1,0 +1,1 @@
+# bidding contest - конкурс торгов

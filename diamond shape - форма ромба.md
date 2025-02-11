@@ -1,0 +1,1 @@
+# diamond shape - форма ромба

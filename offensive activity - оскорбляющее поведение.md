@@ -1,0 +1,1 @@
+# offensive activity - оскорбляющее поведение

@@ -1,0 +1,1 @@
+# authorized person - уполномоченное лицо

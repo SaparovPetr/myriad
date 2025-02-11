@@ -1,0 +1,1 @@
+# anticoagulant medication - антикоагулянты

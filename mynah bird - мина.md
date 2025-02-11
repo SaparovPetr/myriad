@@ -1,0 +1,1 @@
+# mynah bird - мина

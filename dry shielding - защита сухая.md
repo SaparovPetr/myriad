@@ -1,0 +1,1 @@
+# dry shielding - защита сухая

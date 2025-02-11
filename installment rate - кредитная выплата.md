@@ -1,0 +1,1 @@
+# installment rate - кредитная выплата

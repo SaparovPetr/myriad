@@ -1,0 +1,1 @@
+# disengage oneself ❨from❩ - абстрагироваться

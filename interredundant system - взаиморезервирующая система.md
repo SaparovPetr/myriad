@@ -1,0 +1,1 @@
+# interredundant system - взаиморезервирующая система

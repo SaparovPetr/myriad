@@ -1,0 +1,1 @@
+# construction joint - рабочий шов

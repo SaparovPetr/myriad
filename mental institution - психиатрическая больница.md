@@ -1,0 +1,1 @@
+# mental institution - психиатрическая больница

@@ -1,0 +1,1 @@
+# deprived area - бедный район

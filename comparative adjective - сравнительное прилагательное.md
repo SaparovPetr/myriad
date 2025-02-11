@@ -1,0 +1,1 @@
+# comparative adjective - сравнительное прилагательное

@@ -1,0 +1,1 @@
+# firmness of purpose - целеустремлённость

@@ -1,0 +1,1 @@
+# asynchronous transmission - асинхронная передача

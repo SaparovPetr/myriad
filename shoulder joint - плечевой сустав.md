@@ -1,0 +1,1 @@
+# shoulder joint - плечевой сустав

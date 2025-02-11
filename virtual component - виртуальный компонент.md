@@ -1,0 +1,1 @@
+# virtual component - виртуальный компонент

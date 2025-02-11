@@ -1,0 +1,1 @@
+# guarantee certificate - гарантийное обязательство

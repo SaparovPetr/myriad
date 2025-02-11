@@ -1,0 +1,1 @@
+# unfortunate person - несчастный человек

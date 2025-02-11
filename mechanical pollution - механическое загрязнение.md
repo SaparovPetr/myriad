@@ -1,0 +1,1 @@
+# mechanical pollution - механическое загрязнение

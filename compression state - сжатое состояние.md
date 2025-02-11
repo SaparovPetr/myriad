@@ -1,0 +1,1 @@
+# compression state - сжатое состояние

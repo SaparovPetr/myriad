@@ -1,0 +1,1 @@
+# attractive nuisance - источник опасности

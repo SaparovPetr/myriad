@@ -1,0 +1,1 @@
+# casual relationship - недолгосрочные отношения

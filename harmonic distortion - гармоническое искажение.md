@@ -1,0 +1,1 @@
+# harmonic distortion - гармоническое искажение

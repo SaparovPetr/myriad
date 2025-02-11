@@ -1,0 +1,1 @@
+# ineligibility - лишение допуска

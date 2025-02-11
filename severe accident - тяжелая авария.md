@@ -1,0 +1,1 @@
+# severe accident - тяжелая авария

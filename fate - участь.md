@@ -1,0 +1,3 @@
+# Fate - участь
+
+- bad fate

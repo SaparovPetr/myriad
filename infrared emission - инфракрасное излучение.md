@@ -1,0 +1,1 @@
+# infrared emission - инфракрасное излучение

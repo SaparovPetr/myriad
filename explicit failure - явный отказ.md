@@ -1,0 +1,1 @@
+# explicit failure - явный отказ

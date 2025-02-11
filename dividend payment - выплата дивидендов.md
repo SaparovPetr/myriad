@@ -1,0 +1,1 @@
+# dividend payment - выплата дивидендов

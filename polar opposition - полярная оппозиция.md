@@ -1,0 +1,1 @@
+# polar opposition - полярная оппозиция

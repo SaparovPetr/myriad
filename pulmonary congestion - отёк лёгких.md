@@ -1,0 +1,1 @@
+# pulmonary congestion - отёк лёгких

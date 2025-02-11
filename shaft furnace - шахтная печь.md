@@ -1,0 +1,1 @@
+# shaft furnace - шахтная печь

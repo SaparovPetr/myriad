@@ -1,0 +1,1 @@
+# distribution board - распределительный щит

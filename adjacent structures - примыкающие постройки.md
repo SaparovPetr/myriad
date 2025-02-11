@@ -1,0 +1,1 @@
+# adjacent structures - примыкающие постройки

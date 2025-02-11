@@ -1,0 +1,1 @@
+# impersonal question - безличный вопрос

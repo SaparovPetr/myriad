@@ -1,0 +1,1 @@
+# dwindling away - сокращающийся

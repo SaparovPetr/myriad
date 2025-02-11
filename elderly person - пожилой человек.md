@@ -1,0 +1,1 @@
+# elderly person - пожилой человек

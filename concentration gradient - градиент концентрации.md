@@ -1,0 +1,1 @@
+# concentration gradient - градиент концентрации

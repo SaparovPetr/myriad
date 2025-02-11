@@ -1,0 +1,1 @@
+# illiterate person - неграмотный человек

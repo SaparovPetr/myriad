@@ -1,0 +1,1 @@
+# medical student - студент - медик

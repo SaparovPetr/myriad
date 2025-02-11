@@ -1,0 +1,1 @@
+# arsenous anhydride - оксид мышьяка

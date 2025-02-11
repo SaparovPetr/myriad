@@ -1,0 +1,1 @@
+# assortative mating - спаривание подобных

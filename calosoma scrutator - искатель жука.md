@@ -1,0 +1,1 @@
+# calosoma scrutator - искатель жука

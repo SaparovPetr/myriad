@@ -1,0 +1,1 @@
+# thalarctos maritimus - белый медведь

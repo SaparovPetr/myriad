@@ -1,0 +1,1 @@
+# pedestrian street - пешеходная улица

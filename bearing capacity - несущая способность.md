@@ -1,0 +1,1 @@
+# bearing capacity - несущая способность

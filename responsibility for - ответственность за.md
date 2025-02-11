@@ -1,0 +1,1 @@
+# responsibility for - ответственность за

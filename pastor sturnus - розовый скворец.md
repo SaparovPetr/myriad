@@ -1,0 +1,1 @@
+# pastor sturnus - розовый скворец

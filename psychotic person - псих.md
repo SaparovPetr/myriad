@@ -1,0 +1,1 @@
+# psychotic person - псих

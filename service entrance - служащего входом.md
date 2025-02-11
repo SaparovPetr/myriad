@@ -1,0 +1,1 @@
+# service entrance - служащего входом

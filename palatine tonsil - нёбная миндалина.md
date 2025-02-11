@@ -1,0 +1,1 @@
+# palatine tonsil - нёбная миндалина

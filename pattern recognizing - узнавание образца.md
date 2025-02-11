@@ -1,0 +1,1 @@
+# pattern recognizing - узнавание образца

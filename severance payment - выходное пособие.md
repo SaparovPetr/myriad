@@ -1,0 +1,1 @@
+# severance payment - выходное пособие

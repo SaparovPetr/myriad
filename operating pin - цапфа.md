@@ -1,0 +1,1 @@
+# operating pin - цапфа

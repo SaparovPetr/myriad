@@ -1,0 +1,1 @@
+# self - condemnation - самообвинение

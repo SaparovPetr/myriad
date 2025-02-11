@@ -1,0 +1,1 @@
+# pullorum disease - пуллорозная болезнь

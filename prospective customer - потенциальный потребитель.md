@@ -1,0 +1,1 @@
+# prospective customer - потенциальный потребитель

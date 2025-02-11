@@ -1,0 +1,1 @@
+# poignant sarcasm - острый сарказм

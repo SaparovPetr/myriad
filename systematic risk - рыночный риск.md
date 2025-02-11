@@ -1,0 +1,1 @@
+# systematic risk - рыночный риск

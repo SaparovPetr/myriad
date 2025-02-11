@@ -1,0 +1,1 @@
+# verbal expression - словесное выражение

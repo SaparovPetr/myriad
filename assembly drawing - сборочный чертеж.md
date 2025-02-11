@@ -1,0 +1,1 @@
+# assembly drawing - сборочный чертеж

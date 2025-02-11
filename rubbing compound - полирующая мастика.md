@@ -1,0 +1,1 @@
+# rubbing compound - полирующая мастика

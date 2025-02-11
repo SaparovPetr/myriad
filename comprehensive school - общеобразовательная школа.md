@@ -1,0 +1,1 @@
+# comprehensive school - общеобразовательная школа

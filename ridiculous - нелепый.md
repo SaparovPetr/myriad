@@ -1,0 +1,3 @@
+# Ridiculous - нелепый
+
+- ridiculous outlook

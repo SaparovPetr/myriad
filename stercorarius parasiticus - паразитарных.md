@@ -1,0 +1,1 @@
+# stercorarius parasiticus - паразитарных

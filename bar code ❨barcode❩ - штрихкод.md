@@ -1,0 +1,1 @@
+# bar code ❨barcode❩ - штрихкод

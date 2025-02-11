@@ -1,0 +1,1 @@
+# mental defectiveness - психическая неполноценность

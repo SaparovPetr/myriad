@@ -1,0 +1,1 @@
+# ADDIE model - модель ADDIE

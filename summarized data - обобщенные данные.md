@@ -1,0 +1,1 @@
+# summarized data - обобщенные данные

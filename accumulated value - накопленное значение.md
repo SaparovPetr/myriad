@@ -1,0 +1,1 @@
+# accumulated value - накопленное значение

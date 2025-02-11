@@ -1,0 +1,1 @@
+# growth potential - потенциал роста

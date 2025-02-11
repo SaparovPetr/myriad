@@ -1,0 +1,1 @@
+# ethical investment - этичное инвестирование

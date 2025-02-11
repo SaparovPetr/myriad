@@ -1,0 +1,1 @@
+# uzbekistani - узбекский

@@ -1,0 +1,1 @@
+# nonsystematic risk - несистематический риск

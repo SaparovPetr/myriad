@@ -1,0 +1,1 @@
+# juvenile delinquent - малолетний преступник

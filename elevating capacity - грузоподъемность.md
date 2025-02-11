@@ -1,0 +1,1 @@
+# elevating capacity - грузоподъемность

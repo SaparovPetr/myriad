@@ -1,0 +1,1 @@
+# immunity to interference - помехоустойчивость

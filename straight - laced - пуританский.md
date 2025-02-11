@@ -1,0 +1,1 @@
+# straight - laced - пуританский

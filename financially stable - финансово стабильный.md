@@ -1,0 +1,1 @@
+# financially stable - финансово стабильный

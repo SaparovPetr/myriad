@@ -1,0 +1,1 @@
+# living standards - уровень жизни

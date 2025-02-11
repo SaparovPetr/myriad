@@ -1,0 +1,1 @@
+# local criticality - локальная критичность

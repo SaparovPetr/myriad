@@ -1,0 +1,1 @@
+# thread inspection - контроль резьбы

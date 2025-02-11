@@ -1,0 +1,1 @@
+# without thinking - не раздумывая

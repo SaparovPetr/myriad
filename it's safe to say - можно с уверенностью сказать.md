@@ -1,0 +1,1 @@
+It's safe to say that it's true.

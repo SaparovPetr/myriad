@@ -1,0 +1,1 @@
+# grounding switch - короткозамыкатель

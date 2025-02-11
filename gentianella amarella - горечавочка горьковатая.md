@@ -1,0 +1,1 @@
+# gentianella amarella - горечавочка горьковатая

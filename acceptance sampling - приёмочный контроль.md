@@ -1,0 +1,1 @@
+# acceptance sampling - приёмочный контроль

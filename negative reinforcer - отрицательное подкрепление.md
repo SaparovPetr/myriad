@@ -1,0 +1,1 @@
+# negative reinforcer - отрицательное подкрепление

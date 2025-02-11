@@ -1,0 +1,1 @@
+# educational activity - образовательная деятельность

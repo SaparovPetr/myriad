@@ -1,0 +1,1 @@
+# extinguishable - погашаемый

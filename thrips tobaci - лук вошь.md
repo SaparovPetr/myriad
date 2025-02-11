@@ -1,0 +1,1 @@
+# thrips tobaci - лук вошь

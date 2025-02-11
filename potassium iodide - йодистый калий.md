@@ -1,0 +1,1 @@
+# potassium iodide - йодистый калий

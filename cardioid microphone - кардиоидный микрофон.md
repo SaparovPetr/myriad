@@ -1,0 +1,1 @@
+# cardioid microphone - кардиоидный микрофон

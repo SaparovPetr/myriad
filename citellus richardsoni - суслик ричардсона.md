@@ -1,0 +1,1 @@
+# citellus richardsoni - суслик ричардсона

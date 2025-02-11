@@ -1,0 +1,1 @@
+# cotton bollworm - совка хлопковая

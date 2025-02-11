@@ -1,0 +1,1 @@
+# triticum durum - пшеница твёрдая

@@ -1,0 +1,1 @@
+# Sputnik moment - момент Спутника

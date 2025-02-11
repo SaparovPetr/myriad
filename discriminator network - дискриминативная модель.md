@@ -1,0 +1,1 @@
+# discriminator network - дискриминативная модель

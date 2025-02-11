@@ -1,0 +1,1 @@
+# horizontal crossarm - траверса горизонтальная

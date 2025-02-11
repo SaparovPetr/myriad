@@ -1,0 +1,1 @@
+# permanent injunction - окончательный запрет

@@ -1,0 +1,1 @@
+# community center - общественный центр

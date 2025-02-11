@@ -1,0 +1,1 @@
+# JSC ״NAC Kazatomprom״ - Казатомпром

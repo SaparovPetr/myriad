@@ -1,0 +1,1 @@
+# wimshurst machine - электрофорная машина

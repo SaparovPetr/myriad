@@ -1,0 +1,1 @@
+# decreasing returns - снижение отдачи

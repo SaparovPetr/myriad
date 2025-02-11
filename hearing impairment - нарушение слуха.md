@@ -1,0 +1,1 @@
+# hearing impairment - нарушение слуха

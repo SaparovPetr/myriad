@@ -1,0 +1,1 @@
+# thread diameter - диаметр резьбы

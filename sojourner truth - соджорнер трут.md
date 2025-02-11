@@ -1,0 +1,1 @@
+# sojourner truth - соджорнер трут

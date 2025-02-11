@@ -1,0 +1,1 @@
+# overall idea - общая идея

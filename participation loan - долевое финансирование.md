@@ -1,0 +1,1 @@
+# participation loan - долевое финансирование

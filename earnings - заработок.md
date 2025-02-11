@@ -1,0 +1,3 @@
+# Earnings - заработок
+
+- average earnings

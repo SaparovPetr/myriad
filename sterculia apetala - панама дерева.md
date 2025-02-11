@@ -1,0 +1,1 @@
+# sterculia apetala - панама дерева

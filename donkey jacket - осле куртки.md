@@ -1,0 +1,1 @@
+# donkey jacket - осле куртки

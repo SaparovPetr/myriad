@@ -1,0 +1,1 @@
+# managerial decision - управленческое решение

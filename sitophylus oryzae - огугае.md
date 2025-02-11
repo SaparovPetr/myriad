@@ -1,0 +1,1 @@
+# sitophylus oryzae - огугае

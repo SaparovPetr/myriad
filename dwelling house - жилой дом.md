@@ -1,0 +1,1 @@
+# dwelling house - жилой дом

@@ -1,0 +1,1 @@
+# pyrus communis - груша

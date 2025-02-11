@@ -1,0 +1,1 @@
+# locking washer - стопорная шайба

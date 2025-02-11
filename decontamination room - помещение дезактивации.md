@@ -1,0 +1,1 @@
+# decontamination room - помещение дезактивации

@@ -1,0 +1,1 @@
+# germinal disc - бластодиск

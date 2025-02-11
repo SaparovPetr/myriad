@@ -1,0 +1,1 @@
+# acquire information - получать информацию

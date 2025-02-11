@@ -1,0 +1,1 @@
+# degenerate into - опуститься до

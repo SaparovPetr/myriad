@@ -1,0 +1,1 @@
+# operational testing - эксплуатационные испытания

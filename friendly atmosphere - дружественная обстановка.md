@@ -1,0 +1,1 @@
+# friendly atmosphere - дружественная обстановка

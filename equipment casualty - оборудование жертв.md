@@ -1,0 +1,1 @@
+# equipment casualty - оборудование жертв

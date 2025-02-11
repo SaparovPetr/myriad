@@ -1,0 +1,1 @@
+# prospective partner - потенциальный партнёр

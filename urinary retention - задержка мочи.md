@@ -1,0 +1,1 @@
+# urinary retention - задержка мочи

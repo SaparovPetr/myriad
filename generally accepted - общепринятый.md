@@ -1,0 +1,1 @@
+# generally accepted - общепринятый

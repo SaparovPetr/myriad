@@ -1,0 +1,1 @@
+# natural frequency - собственная частота

@@ -1,0 +1,1 @@
+# integrative bargaining - кооперативные переговоры

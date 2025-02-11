@@ -1,0 +1,1 @@
+# defense secretary - министр обороны

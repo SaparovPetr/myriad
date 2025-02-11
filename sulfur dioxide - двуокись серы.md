@@ -1,0 +1,1 @@
+# sulfur dioxide - двуокись серы

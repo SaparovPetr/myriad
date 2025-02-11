@@ -1,0 +1,1 @@
+# fashion victim - жертва моды

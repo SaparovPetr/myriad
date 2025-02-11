@@ -1,0 +1,1 @@
+# associated equipment - сопутствующее оборудование

@@ -1,0 +1,1 @@
+# implement ideas - воплощать идеи

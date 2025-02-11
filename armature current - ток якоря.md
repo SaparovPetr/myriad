@@ -1,0 +1,1 @@
+# armature current - ток якоря

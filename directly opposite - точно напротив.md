@@ -1,0 +1,1 @@
+# directly opposite - точно напротив

@@ -1,0 +1,1 @@
+# adhesive friction - адгезионное трение

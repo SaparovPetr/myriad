@@ -1,0 +1,1 @@
+# pauperisation - обнищание

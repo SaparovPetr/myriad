@@ -1,0 +1,1 @@
+# general guideline - общие указания

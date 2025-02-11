@@ -1,0 +1,1 @@
+# corrosive medium - агрессивная среда

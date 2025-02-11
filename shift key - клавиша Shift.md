@@ -1,0 +1,1 @@
+# shift key - клавиша Shift

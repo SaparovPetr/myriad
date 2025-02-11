@@ -1,0 +1,1 @@
+# throwaway culture - «одноразовая культура»

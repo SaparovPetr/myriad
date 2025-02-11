@@ -1,0 +1,1 @@
+# visual impairment - нарушение зрения

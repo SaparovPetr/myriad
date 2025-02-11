@@ -1,0 +1,1 @@
+# internal storage - внутренняя память

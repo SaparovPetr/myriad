@@ -1,0 +1,1 @@
+# aleatory contract - рисковый договор

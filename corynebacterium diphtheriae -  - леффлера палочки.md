@@ -1,0 +1,1 @@
+# corynebacterium diphtheriae -  - леффлера палочки

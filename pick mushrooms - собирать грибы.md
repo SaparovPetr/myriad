@@ -1,0 +1,1 @@
+# pick mushrooms - собирать грибы

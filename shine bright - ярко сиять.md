@@ -1,0 +1,1 @@
+# shine bright - ярко сиять

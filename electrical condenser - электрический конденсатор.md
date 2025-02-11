@@ -1,0 +1,1 @@
+# electrical condenser - электрический конденсатор

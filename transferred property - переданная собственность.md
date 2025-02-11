@@ -1,0 +1,1 @@
+# transferred property - переданная собственность

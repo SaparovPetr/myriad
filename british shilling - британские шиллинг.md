@@ -1,0 +1,1 @@
+# british shilling - британские шиллинг

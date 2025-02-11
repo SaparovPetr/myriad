@@ -1,0 +1,1 @@
+# spodoptera frugiperda - падают гусениц

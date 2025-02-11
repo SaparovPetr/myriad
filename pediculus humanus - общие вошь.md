@@ -1,0 +1,1 @@
+# pediculus humanus - общие вошь

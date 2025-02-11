@@ -1,0 +1,3 @@
+# Skilled - квалифицированный
+
+- skilled worker

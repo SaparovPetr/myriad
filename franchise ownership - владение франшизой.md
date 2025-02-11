@@ -1,0 +1,1 @@
+# franchise ownership - владение франшизой

@@ -1,0 +1,1 @@
+# polished rice - белого риса

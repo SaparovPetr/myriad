@@ -1,0 +1,1 @@
+# hard of hearing - слабослышащий

@@ -1,0 +1,3 @@
+# Slender - стройный
+
+- Slender body

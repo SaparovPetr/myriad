@@ -1,0 +1,1 @@
+# potassium chlorate - хлорат калия

@@ -1,0 +1,1 @@
+# totalitation regime - тоталитарное государство

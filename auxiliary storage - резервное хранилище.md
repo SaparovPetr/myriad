@@ -1,0 +1,1 @@
+# auxiliary storage - резервное хранилище

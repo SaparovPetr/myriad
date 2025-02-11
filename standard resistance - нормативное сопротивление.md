@@ -1,0 +1,1 @@
+# standard resistance - нормативное сопротивление

@@ -1,0 +1,1 @@
+# process capability - возможность процесса

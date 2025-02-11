@@ -1,0 +1,1 @@
+# vacuum casting - вакуумное литьё

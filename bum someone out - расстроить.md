@@ -1,0 +1,1 @@
+# bum someone out - расстроить

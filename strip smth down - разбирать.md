@@ -1,0 +1,1 @@
+# strip smth down - разбирать

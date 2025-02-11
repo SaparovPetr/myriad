@@ -1,0 +1,1 @@
+# personality inventory - личностный опросник

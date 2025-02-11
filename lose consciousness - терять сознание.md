@@ -1,0 +1,1 @@
+# lose consciousness - терять сознание

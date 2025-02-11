@@ -1,0 +1,1 @@
+# cycas circinalis - папоротник ладони

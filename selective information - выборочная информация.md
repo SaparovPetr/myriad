@@ -1,0 +1,1 @@
+# selective information - выборочная информация

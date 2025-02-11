@@ -1,0 +1,1 @@
+# consider immoral - считать аморальным

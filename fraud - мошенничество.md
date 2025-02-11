@@ -1,0 +1,3 @@
+# Fraud - мошенничество
+
+- typical fraud

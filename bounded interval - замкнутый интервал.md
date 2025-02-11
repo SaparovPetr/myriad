@@ -1,0 +1,1 @@
+# bounded interval - замкнутый интервал

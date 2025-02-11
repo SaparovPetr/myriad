@@ -1,0 +1,1 @@
+# corrosion brittleness - коррозионная хрупкость

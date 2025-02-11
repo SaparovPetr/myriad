@@ -1,0 +1,1 @@
+# intramuscularly - внутримышечно

@@ -1,0 +1,1 @@
+# individual application - отдельное приложение

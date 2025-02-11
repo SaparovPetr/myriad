@@ -1,0 +1,1 @@
+# operating organization - эксплуатирующая организация

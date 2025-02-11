@@ -1,0 +1,1 @@
+# acetylsalicylic acid - кислота ацетилсалициловая

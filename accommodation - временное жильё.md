@@ -1,0 +1,1 @@
+# accommodation - временное жильё

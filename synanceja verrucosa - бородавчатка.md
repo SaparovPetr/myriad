@@ -1,0 +1,1 @@
+# synanceja verrucosa - бородавчатка

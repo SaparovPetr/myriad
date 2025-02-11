@@ -1,0 +1,1 @@
+# strongylodon macrobotrys - стронгилодон крупнокистевой

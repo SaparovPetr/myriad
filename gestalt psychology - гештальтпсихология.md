@@ -1,0 +1,1 @@
+# gestalt psychology - гештальтпсихология

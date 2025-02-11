@@ -1,0 +1,1 @@
+# alternating current - переменный ток

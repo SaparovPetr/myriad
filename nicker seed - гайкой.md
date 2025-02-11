@@ -1,0 +1,1 @@
+# nicker seed - гайкой

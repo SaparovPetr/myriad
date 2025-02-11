@@ -1,0 +1,1 @@
+# veer away from - избегать

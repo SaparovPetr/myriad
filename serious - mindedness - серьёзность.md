@@ -1,0 +1,1 @@
+# serious - mindedness - серьёзность

@@ -1,0 +1,3 @@
+# Fault - недостаток
+
+- external faults

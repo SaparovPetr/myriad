@@ -1,0 +1,1 @@
+# defensive attitude - оборонительная тактика

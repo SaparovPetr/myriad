@@ -1,0 +1,1 @@
+# constructive discharge - конструктивное увольнение

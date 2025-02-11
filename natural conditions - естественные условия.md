@@ -1,0 +1,1 @@
+# natural conditions - естественные условия

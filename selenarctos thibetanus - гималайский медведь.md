@@ -1,0 +1,1 @@
+# selenarctos thibetanus - гималайский медведь

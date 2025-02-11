@@ -1,0 +1,1 @@
+# merchandise display - выкладка товара

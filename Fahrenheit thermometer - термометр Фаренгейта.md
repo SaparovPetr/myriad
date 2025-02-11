@@ -1,0 +1,1 @@
+# Fahrenheit thermometer - термометр Фаренгейта

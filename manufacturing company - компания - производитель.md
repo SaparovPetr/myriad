@@ -1,0 +1,1 @@
+# manufacturing company - компания - производитель

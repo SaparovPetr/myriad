@@ -1,0 +1,1 @@
+# outstanding student - выдающийся студент

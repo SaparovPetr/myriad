@@ -1,0 +1,1 @@
+# active application - активное приложение

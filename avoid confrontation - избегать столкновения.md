@@ -1,0 +1,1 @@
+# avoid confrontation - избегать столкновения

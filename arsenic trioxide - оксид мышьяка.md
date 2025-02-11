@@ -1,0 +1,1 @@
+# arsenic trioxide - оксид мышьяка

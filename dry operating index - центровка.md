@@ -1,0 +1,1 @@
+# dry operating index - центровка

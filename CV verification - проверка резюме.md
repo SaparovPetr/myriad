@@ -1,0 +1,1 @@
+# CV verification - проверка резюме

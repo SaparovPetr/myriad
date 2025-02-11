@@ -1,0 +1,1 @@
+# seismic exploration work - сейсморазведка

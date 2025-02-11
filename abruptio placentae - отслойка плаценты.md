@@ -1,0 +1,1 @@
+# abruptio placentae - отслойка плаценты

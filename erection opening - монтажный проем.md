@@ -1,0 +1,1 @@
+# erection opening - монтажный проем

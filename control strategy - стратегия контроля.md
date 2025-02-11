@@ -1,0 +1,1 @@
+# control strategy - стратегия контроля

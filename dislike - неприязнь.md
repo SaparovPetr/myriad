@@ -1,0 +1,3 @@
+# Dislike - неприязнь
+
+- mutual dislike

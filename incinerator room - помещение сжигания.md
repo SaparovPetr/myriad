@@ -1,0 +1,1 @@
+# incinerator room - помещение сжигания

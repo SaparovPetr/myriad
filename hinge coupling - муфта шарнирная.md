@@ -1,0 +1,1 @@
+# hinge coupling - муфта шарнирная

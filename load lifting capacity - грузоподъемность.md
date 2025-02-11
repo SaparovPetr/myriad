@@ -1,0 +1,1 @@
+# load lifting capacity - грузоподъемность

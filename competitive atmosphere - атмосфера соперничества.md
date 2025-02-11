@@ -1,0 +1,1 @@
+# competitive atmosphere - атмосфера соперничества

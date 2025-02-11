@@ -1,0 +1,1 @@
+# emergency generator - аварийный генератор

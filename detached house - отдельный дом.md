@@ -1,0 +1,1 @@
+# detached house - отдельный дом

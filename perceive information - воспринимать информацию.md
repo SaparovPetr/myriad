@@ -1,0 +1,1 @@
+# perceive information - воспринимать информацию

@@ -1,0 +1,1 @@
+# competitive price - конкурентная цена

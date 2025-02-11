@@ -1,0 +1,1 @@
+# tightened rabbet - уплотненный притвор

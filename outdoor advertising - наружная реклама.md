@@ -1,0 +1,1 @@
+# outdoor advertising - наружная реклама

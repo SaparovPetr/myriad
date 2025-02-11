@@ -1,0 +1,1 @@
+# kippered salmon - копчёный лосось

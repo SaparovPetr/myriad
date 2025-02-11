@@ -1,0 +1,1 @@
+# mineral resource - полезное ископаемое

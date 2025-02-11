@@ -1,0 +1,1 @@
+# manage expectations - управлять ожиданиями

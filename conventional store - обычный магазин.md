@@ -1,0 +1,1 @@
+# conventional store - обычный магазин

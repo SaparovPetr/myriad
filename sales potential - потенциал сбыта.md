@@ -1,0 +1,1 @@
+# sales potential - потенциал сбыта

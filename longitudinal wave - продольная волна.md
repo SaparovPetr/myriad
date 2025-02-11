@@ -1,0 +1,1 @@
+# longitudinal wave - продольная волна

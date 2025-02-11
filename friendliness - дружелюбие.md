@@ -1,0 +1,3 @@
+# Friendliness - дружелюбие
+
+- artificial friendlines

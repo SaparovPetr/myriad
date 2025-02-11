@@ -1,0 +1,1 @@
+# shear reinforcement - поперечная арматура

@@ -1,0 +1,1 @@
+# exercising weight - свободный вес

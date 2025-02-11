@@ -1,0 +1,1 @@
+# fastening detail - узел крепления

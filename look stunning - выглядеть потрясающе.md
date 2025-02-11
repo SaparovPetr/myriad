@@ -1,0 +1,2 @@
+- you look stunning
+- Your dress looks stunning

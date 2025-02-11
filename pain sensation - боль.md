@@ -1,0 +1,1 @@
+# pain sensation - боль

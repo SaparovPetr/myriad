@@ -1,0 +1,1 @@
+# coordinated bargaining - согласованный торг

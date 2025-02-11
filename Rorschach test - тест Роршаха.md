@@ -1,0 +1,1 @@
+# Rorschach test - тест Роршаха

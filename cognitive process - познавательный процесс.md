@@ -1,0 +1,1 @@
+# cognitive process - познавательный процесс

@@ -1,0 +1,1 @@
+# marketing technique - маркетинговый инструмент

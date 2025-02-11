@@ -1,0 +1,1 @@
+# stainless steel - нержавеющая сталь

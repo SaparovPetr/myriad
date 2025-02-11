@@ -1,0 +1,1 @@
+# categorization room - помещение паспортизации

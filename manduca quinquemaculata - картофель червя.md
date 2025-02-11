@@ -1,0 +1,1 @@
+# manduca quinquemaculata - картофель червя

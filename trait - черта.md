@@ -1,0 +1,3 @@
+# Trait - черта
+
+- trait character

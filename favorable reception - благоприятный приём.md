@@ -1,0 +1,1 @@
+# favorable reception - благоприятный приём

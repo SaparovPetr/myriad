@@ -1,0 +1,1 @@
+# secondary school - средняя школа

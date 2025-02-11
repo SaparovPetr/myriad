@@ -1,0 +1,1 @@
+# bare essentials - самое необходимое

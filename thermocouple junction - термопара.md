@@ -1,0 +1,1 @@
+# thermocouple junction - термопара

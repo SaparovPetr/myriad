@@ -1,0 +1,1 @@
+# omnidirectional range - всенаправленный радиомаяк

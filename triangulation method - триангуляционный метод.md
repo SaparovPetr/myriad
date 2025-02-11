@@ -1,0 +1,1 @@
+# triangulation method - триангуляционный метод

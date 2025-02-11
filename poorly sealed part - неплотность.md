@@ -1,0 +1,1 @@
+# poorly sealed part - неплотность

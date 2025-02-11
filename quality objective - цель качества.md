@@ -1,0 +1,1 @@
+# quality objective - цель качества

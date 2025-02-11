@@ -1,0 +1,1 @@
+# competitive strategy - конкурентная стратегия

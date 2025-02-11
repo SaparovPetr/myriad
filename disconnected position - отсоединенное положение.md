@@ -1,0 +1,1 @@
+# disconnected position - отсоединенное положение

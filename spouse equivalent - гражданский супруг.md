@@ -1,0 +1,1 @@
+# spouse equivalent - гражданский супруг

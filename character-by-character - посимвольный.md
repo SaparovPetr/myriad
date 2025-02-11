@@ -1,0 +1,1 @@
+# character-by-character - посимвольный

@@ -1,0 +1,1 @@
+# main connector - главный разъём

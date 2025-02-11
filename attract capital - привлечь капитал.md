@@ -1,0 +1,1 @@
+# attract capital - привлечь капитал

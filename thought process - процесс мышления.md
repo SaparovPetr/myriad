@@ -1,0 +1,1 @@
+# thought process - процесс мышления

@@ -1,0 +1,1 @@
+# heat resistance - термостойкость

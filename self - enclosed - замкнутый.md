@@ -1,0 +1,1 @@
+# self - enclosed - замкнутый

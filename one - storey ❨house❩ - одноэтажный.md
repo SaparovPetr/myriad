@@ -1,0 +1,1 @@
+# one - storey ❨house❩ - одноэтажный

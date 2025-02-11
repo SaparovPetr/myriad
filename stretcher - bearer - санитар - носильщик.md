@@ -1,0 +1,1 @@
+# stretcher - bearer - санитар - носильщик

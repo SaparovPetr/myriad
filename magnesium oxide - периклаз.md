@@ -1,0 +1,1 @@
+# magnesium oxide - периклаз

@@ -1,0 +1,1 @@
+# gonadotrophic hormone - гонадотропные гормоны

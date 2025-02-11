@@ -1,0 +1,1 @@
+# expansion slot - слот расширения

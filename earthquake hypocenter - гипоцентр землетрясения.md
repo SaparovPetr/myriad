@@ -1,0 +1,1 @@
+# earthquake hypocenter - гипоцентр землетрясения

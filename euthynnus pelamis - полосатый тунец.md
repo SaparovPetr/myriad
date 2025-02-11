@@ -1,0 +1,1 @@
+# euthynnus pelamis - полосатый тунец

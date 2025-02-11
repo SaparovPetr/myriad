@@ -1,0 +1,1 @@
+# natural resource - природный ресурс

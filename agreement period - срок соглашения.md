@@ -1,0 +1,1 @@
+# agreement period - срок соглашения

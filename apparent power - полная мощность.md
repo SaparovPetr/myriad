@@ -1,0 +1,1 @@
+# apparent power - полная мощность

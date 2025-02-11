@@ -1,0 +1,1 @@
+# quality characteristic - характеристика качества

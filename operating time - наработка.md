@@ -1,0 +1,1 @@
+# operating time - наработка

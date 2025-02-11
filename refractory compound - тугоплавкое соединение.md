@@ -1,0 +1,1 @@
+# refractory compound - тугоплавкое соединение

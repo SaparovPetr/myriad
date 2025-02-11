@@ -1,0 +1,1 @@
+# solitary confinement - одиночное заключение

@@ -1,0 +1,1 @@
+# rigid timetable - жёсткий график

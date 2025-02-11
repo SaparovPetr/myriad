@@ -1,0 +1,1 @@
+# infrared radiation - инфракрасное излучение

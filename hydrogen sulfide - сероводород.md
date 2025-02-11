@@ -1,0 +1,1 @@
+# hydrogen sulfide - сероводород

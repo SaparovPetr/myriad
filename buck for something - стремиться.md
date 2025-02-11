@@ -1,0 +1,1 @@
+# buck for something - стремиться

@@ -1,0 +1,1 @@
+# equestrian statue - конная статуя

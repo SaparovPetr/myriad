@@ -1,0 +1,1 @@
+# pinus ponderosa - сосна жёлтая

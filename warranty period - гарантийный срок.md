@@ -1,0 +1,1 @@
+# warranty period - гарантийный срок

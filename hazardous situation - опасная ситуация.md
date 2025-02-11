@@ -1,0 +1,1 @@
+# hazardous situation - опасная ситуация

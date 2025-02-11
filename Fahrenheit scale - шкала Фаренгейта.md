@@ -1,0 +1,1 @@
+# Fahrenheit scale - шкала Фаренгейта

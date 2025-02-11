@@ -1,0 +1,1 @@
+# decline in quality - деградация

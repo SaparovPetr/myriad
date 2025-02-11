@@ -1,0 +1,1 @@
+# derelict building - заброшенное здание

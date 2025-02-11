@@ -1,0 +1,1 @@
+# stretch ceiling - натяжной потолок

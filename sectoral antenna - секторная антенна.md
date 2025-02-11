@@ -1,0 +1,1 @@
+# sectoral antenna - секторная антенна

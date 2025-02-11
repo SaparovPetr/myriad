@@ -1,0 +1,1 @@
+# Heimlich manoeuvre - прием Геймлиха

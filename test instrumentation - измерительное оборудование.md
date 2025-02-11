@@ -1,0 +1,1 @@
+# test instrumentation - измерительное оборудование

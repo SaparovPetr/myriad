@@ -1,0 +1,1 @@
+# beijing dialect - пекинский диалект

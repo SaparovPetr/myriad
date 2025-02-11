@@ -1,0 +1,1 @@
+# prohibition sign - запрещающий знак

@@ -1,0 +1,1 @@
+# supporting leg - опорная нога

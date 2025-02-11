@@ -1,0 +1,1 @@
+# depreciation allowance - амортизационные отчисления

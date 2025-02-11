@@ -1,0 +1,1 @@
+# short - tempered - вспыльчивый

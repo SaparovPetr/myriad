@@ -1,0 +1,1 @@
+# observation tower - смотровая вышка

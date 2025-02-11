@@ -1,0 +1,1 @@
+# demountable platform - съемная площадка

@@ -1,0 +1,1 @@
+# instruction execution - выполнение команды

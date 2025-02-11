@@ -1,0 +1,1 @@
+# collective goal - общая цель

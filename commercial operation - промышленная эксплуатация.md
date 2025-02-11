@@ -1,0 +1,1 @@
+# commercial operation - промышленная эксплуатация

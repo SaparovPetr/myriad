@@ -1,0 +1,1 @@
+# push-type actuator - толкатель

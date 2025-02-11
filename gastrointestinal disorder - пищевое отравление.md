@@ -1,0 +1,1 @@
+# gastrointestinal disorder - пищевое отравление

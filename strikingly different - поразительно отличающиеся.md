@@ -1,0 +1,1 @@
+# strikingly different - поразительно отличающиеся

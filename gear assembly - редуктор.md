@@ -1,0 +1,1 @@
+# gear assembly - редуктор

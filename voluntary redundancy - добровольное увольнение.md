@@ -1,0 +1,1 @@
+# voluntary redundancy - добровольное увольнение

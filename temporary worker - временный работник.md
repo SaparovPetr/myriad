@@ -1,0 +1,1 @@
+# temporary worker - временный работник
