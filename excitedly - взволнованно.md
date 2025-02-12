@@ -1,3 +1,6 @@
 # Excitedly - взволнованно
 
-- excitedly waitExcitedly look Look. He seems excitedly.
+- excitedly wait
+- Excitedly look
+
+Look. He seems excitedly.
