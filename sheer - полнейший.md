@@ -1,4 +1,4 @@
-# sheer - полнейший# Thinking
+# sheer - полнейший
 
 Marked list of seven simple and popular collocations with "sheer" (полнейший):  
 
