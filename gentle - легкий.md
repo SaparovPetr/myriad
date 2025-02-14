@@ -1,3 +1,5 @@
 # Gentle - легкий
 
-Gentle windGentle breezeGentle light
+Gentle wind
+Gentle breeze
+Gentle light
