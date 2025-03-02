@@ -1,15 +1,16 @@
 # feminine - женственный
 
 
-- consider the other side of the argument  
-- present the other side of the argument  
-- understand the other side of the argument  
-- respect the other side of the argument  
-- challenge the other side of the argument  
-- acknowledge the other side of the argument  
-- debate the other side of the argument  
 
-Present Perfect: They have considered the other side of the argument in their discussion.  
-Past Simple: She presented the other side of the argument during the debate.  
-Past Continuous: They were discussing the other side of the argument when I arrived.  
-Past Perfect: By the time the meeting ended, they had already acknowledged the other side of the argument.
+- embrace a feminine look  
+- highlight feminine features  
+- express a feminine style  
+- admire feminine beauty  
+- prefer a feminine approach  
+- enhance feminine qualities  
+- celebrate feminine charm  
+
+Present Perfect: She has embraced a more feminine style recently.  
+Past Simple: They admired her feminine grace at the event.  
+Past Continuous: She was highlighting her feminine features with makeup.  
+Past Perfect: By the time the show started, she had already chosen a feminine outfit.
