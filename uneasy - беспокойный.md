@@ -1,3 +1,5 @@
 # Uneasy - беспокойный
 
-- uneasy nightUneasy personUneasy character
+- uneasy night
+- Uneasy person
+- Uneasy character
