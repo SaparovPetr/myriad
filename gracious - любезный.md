@@ -1,3 +1,4 @@
 # Gracious - любезный
 
-- gracious nursegracious personal
+- gracious nurse
+- gracious personal
