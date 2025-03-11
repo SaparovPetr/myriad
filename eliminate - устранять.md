@@ -2,4 +2,5 @@
 
 
 eliminate competitors 
+
 eliminate troubles
