@@ -11,6 +11,9 @@
 Examples in different tenses:
 
 Present Perfect: I have chosen an appropriate approach for the project.
+
 Past Simple: She found the appropriate solution to the problem.
+
 Past Continuous: They were discussing the appropriate measures to take.
+
 Past Perfect: He had selected appropriate attire for the formal event.
