@@ -9,6 +9,9 @@ Collocations with "livelihood":
 7. main livelihood
 
 Present Perfect: Climate change has threatened the livelihoods of many coastal communities.
+
 Past Simple: The new factory provided a livelihood for hundreds of local families last year.
+
 Past Continuous: While the government was implementing new policies, many people were struggling to maintain their livelihoods.
+
 Past Perfect: By the time the drought ended, farmers had already lost their primary source of livelihood.
