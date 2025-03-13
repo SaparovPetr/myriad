@@ -2,4 +2,4 @@
 
 - device for torments
 - Torment room
-- Tornment on the prison
+- Torment on the prison
