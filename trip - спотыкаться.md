@@ -1,3 +1,4 @@
 # Trip - спотыкаться
 
-- Trip on the catTrip on the doorstep
+- Trip on the cat
+- Trip on the doorstep
