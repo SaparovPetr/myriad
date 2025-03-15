@@ -1,3 +1,4 @@
 # Ore - руда
 
-- iron ore Golden ore
+- iron ore
+- golden ore
