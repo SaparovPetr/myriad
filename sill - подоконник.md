@@ -1,3 +1,4 @@
 # Sill - подоконник
 
-- Bird on sillI don't have sill on my balcony.
+- Bird on the sill
+- I don't have the sill on my balcony.
