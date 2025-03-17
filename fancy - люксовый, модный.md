@@ -1,4 +1,4 @@
 # fancy - люксовый, модный
 
-fancy car
-fancy house 
+- fancy car
+- fancy house 
