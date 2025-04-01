@@ -1,3 +1,5 @@
 # Eyesight - зрение
 
-- bed eyesightPoor eyesightMachine eyesight
+- bed eyesight
+- Poor eyesight
+- Machine eyesight
