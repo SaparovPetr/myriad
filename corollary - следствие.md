@@ -1,19 +1,14 @@
 # Corollary - следствие
 
-1. Логическое следствие - Logical corollary
+1. corollary effect
+2. corollary consequence
+3. corollary relationship
+4. corollary principle
+5. corollary findings
+6. corollary statement
+7. corollary issue
 
-2. Неожиданное следствие - Unexpected corollary
-
-3. Прямое следствие - Direct corollary
-
-4. Интуитивное следствие - Intuitive corollary
-
-Present Perfect: I have found a corollary to my original hypothesis.
-
-Past Simple: I found a corollary to my original hypothesis.
-
-Past Continuous: I was finding a corollary to my original hypothesis.
-
-Past Perfect: I had found a corollary to my original hypothesis.
-
-Бот создан с помощью [www.albato.ru](http://www.albato.ru/)
+Present Perfect: I have identified a corollary that explains the results of the study.  
+Past Simple: She noted a corollary in her research findings.  
+Past Continuous: They were discussing the corollary when the meeting ended.  
+Past Perfect: He had established a corollary before publishing his paper.
