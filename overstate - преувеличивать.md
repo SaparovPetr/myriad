@@ -1,27 +1,13 @@
-# Overstate - преувеличивать
 
-1. Overstate the importance - преувеличивать важность
+1. overstate the importance
+2. overstate the benefits
+3. overstate the risks
+4. overstate the facts
+5. overstate the impact
+6. overstate the situation
+7. overstate one's achievements
 
-2. Overstate the benefits - преувеличивать выгоды
-
-3. Overstate the case - преувеличивать ситуацию
-
-4. Overstate the facts - преувеличивать факты
-
-Примеры:
-
-- Present Perfect: The company has been overstating their profits for years.
-
-(Компания преувеличивала свою прибыль на протяжении многих лет.)
-
-- Past Simple: She overstated her abilities on her resume and didn't get the job.
-
-(Она преувеличила свои способности в своём резюме и не получила работу.)
-
-- Past Continuous: He was overstating his case during the meeting, which made everyone uncomfortable.
-
-(Он преувеличивал свою ситуацию во время встречи, что вызвало дискомфорт у всех.)
-
-- Past Perfect: By the time they found out he had been overestating his qualifications, it was too late to hire someone else.
-
-(К тому времени, когда они выяснили, что он преувеличивал свою квалификацию, было уже поздно нанять кого-то другого.)
+Present Perfect: I have never intended to overstate my qualifications.  
+Past Simple: She overstated the benefits of the proposal during the meeting.  
+Past Continuous: They were overstating their achievements when the truth was revealed.  
+Past Perfect: He had overstated the risks before the project began.
