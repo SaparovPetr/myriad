@@ -1,3 +1,5 @@
 # Deafening - оглушающий
 
-- deafening screamDeafening voiceDeafening thander
+- deafening scream
+- Deafening voice
+- Deafening thander
