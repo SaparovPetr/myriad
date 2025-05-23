@@ -1,11 +1,5 @@
 # quackery - шарлатанство
 
-#### You've hit your free quota for the Smart Mode with Sources Agent. For more usage of the Smart Mode with Sources Agent, learn more at: https://you.com/plans.
-
-Answering your question without the Smart Mode with Sources Agent:
-
-Marked list of collocations with "quackery" (шарлатанство):
-
 1. medical quackery  
 2. quackery in healthcare  
 3. quackery claims  
