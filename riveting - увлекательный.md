@@ -1,11 +1,5 @@
 # riveting - увлекательный
 
-#### You've hit your free quota for the Smart Mode with Sources Agent. For more usage of the Smart Mode with Sources Agent, learn more at: https://you.com/plans.
-
-Answering your question without the Smart Mode with Sources Agent:
-
-Marked list of collocations with "riveting" (увлекательный):
-
 1. riveting story  
 2. riveting performance  
 3. riveting documentary  
