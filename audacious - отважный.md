@@ -3,13 +3,13 @@
 
 Marked list of collocations with "audacious" (отважный):
 
-audacious plan
-audacious move
-audacious idea
-audacious attempt
-audacious decision
-audacious individual
-audacious act
+- audacious plan
+- audacious move
+- audacious idea
+- audacious attempt
+- audacious decision
+- audacious individual
+- audacious act
 
 Examples in different tenses:
 Present Perfect: I have embarked on an audacious plan to start my own business.
