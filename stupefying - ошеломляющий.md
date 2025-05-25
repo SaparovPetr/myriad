@@ -2,13 +2,13 @@
 
 Marked list of collocations with "stupefying" (ошеломляющий):
 
-stupefying experience
-stupefying impact
-stupefying blow
-stupefying odor
-stupefying news
-stupefying effect
-stupefying revelation
+- stupefying experience
+- stupefying impact
+- stupefying blow
+- stupefying odor
+- stupefying news
+- stupefying effect
+- stupefying revelation
 
 Examples in different tenses:
 Present Perfect: I have had a stupefying experience that changed my perspective on life.
