@@ -1,3 +1,4 @@
 # Laid-back - непринужденный
 
-- laid-back conversationLaid-back manner
+- laid-back conversation
+- Laid-back manner
