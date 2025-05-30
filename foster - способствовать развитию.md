@@ -1,6 +1,5 @@
 # foster - способствовать развитию
 
-Collocations:
 
 1. foster development
 2. foster growth
