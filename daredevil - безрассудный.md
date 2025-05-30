@@ -1,20 +1,18 @@
-# daredevil - безрассудный
+Marked list of collocations with "daredevil" (безрассудный):
 
-Marked list of collocations with "on one's own" (самостоятельно):
-
-1. **on one's own initiative**  
-2. **on one's own terms**  
-3. **on one's own time**  
-4. **on one's own accord**  
-5. **on one's own path**  
-6. **on one's own schedule**  
-7. **on one's own journey**  
+1. **daredevil stunts**  
+2. **daredevil behavior**  
+3. **daredevil attitude**  
+4. **daredevil acts**  
+5. **daredevil adventures**  
+6. **daredevil personality**  
+7. **daredevil feats**  
 
 ### Examples in Different Tenses:
 
-- **Present Perfect**: She has learned to manage her finances on her own.  
-- **Past Simple**: He traveled on his own for the first time last summer.  
-- **Past Continuous**: They were trying to solve the problem on their own without any help.  
-- **Past Perfect**: She had already completed the project on her own before the deadline.  
+- **Present Perfect**: He has always been a daredevil, trying extreme sports without hesitation.  
+- **Past Simple**: She performed a daredevil stunt that amazed the audience.  
+- **Past Continuous**: They were engaging in daredevil activities during their vacation.  
+- **Past Perfect**: He had already completed several daredevil feats before he turned 30.  
 
-The phrase "on one's own" means to do something **independently or without assistance**. For example, when someone decides to travel **on their own**, they are taking the journey by themselves, showcasing their ability to handle situations independently. Understanding this phrase can enhance discussions about autonomy and self-sufficiency in various contexts.
+The term "daredevil" describes someone who is **recklessly bold or adventurous**, often taking risks that others might avoid. For example, a person known for their **daredevil stunts** might engage in activities like skydiving or bungee jumping. Understanding this term can help convey the idea of thrill-seeking and adventurous behavior in various contexts.
