@@ -1,11 +1,5 @@
 # peruse - внимательно рассматривать
 
-#### You've hit your free quota for the Smart Mode with Sources Agent. For more usage of the Smart Mode with Sources Agent, learn more at: https://you.com/plans.
-
-Answering your question without the Smart Mode with Sources Agent:
-
-Marked list of collocations with "peruse" (внимательно рассматривать):
-
 1. peruse a document  
 2. peruse a book  
 3. peruse the details  
