@@ -1,3 +1,5 @@
 # Tagline - слоган
 
-- Famous taglineRemarkable tagline
+- Famous tagline
+- Remarkable tagline
+- clear tagline 
