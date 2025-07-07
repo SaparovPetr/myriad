@@ -1,3 +1,4 @@
 # Doom - гибель
 
-- doom of Earth Doom of life
+- doom of Earth
+-  Doom of life
