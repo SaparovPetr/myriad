@@ -1,12 +1,12 @@
 # disciple - последователь
 
-• loyal disciple
-• devoted disciple
-• faithful disciple
-• dedicated disciple
-• true disciple
-• spiritual disciple
-• closest disciple
+- loyal disciple
+- devoted disciple
+- faithful disciple
+- dedicated disciple
+- true disciple
+- spiritual disciple
+- closest disciple
 
 Present Perfect: He has been a devoted disciple of the master for years.
 Past Simple: She became a loyal disciple after the meeting.
