@@ -1,7 +1,5 @@
 # at once - сразу
 
-Here are 4 more collocations with "at once" and example sentences in different tenses:
-
 Collocations:
 
 - Do something at once
