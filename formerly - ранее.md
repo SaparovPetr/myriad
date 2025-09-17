@@ -1,14 +1,14 @@
 # formerly - ранее
 
-1. Employee retention  
-2. Customer retention  
-3. Data retention  
-4. Memory retention  
-5. Retention rate  
-6. Retention policy  
-7. Talent retention  
+1. Formerly known  
+2. Formerly called  
+3. Formerly used  
+4. Formerly occupied  
+5. Formerly owned  
+6. Formerly part  
+7. Formerly recognized  
 
-Present Perfect: The company has improved employee retention this year.  
-Past Simple: They increased customer retention through better service.  
-Past Continuous: The team was working on retention strategies last quarter.  
-Past Perfect: By the time the audit was done, they had already enhanced data retention.
+Present Perfect: The building has formerly served as a school.  
+Past Simple: The company was formerly called Tech Solutions.  
+Past Continuous: The area was formerly being used for farming.  
+Past Perfect: By the time the museum opened, the site had formerly housed a factory.
