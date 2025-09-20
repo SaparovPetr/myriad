@@ -1,16 +1,14 @@
 # in turn - в свою очередь
 
-#### Usage examples of "implement" (осуществлять)
+1. Act in turn  
+2. Respond in turn  
+3. Speak in turn  
+4. Take turns in turn  
+5. Follow in turn  
+6. Help in turn  
+7. React in turn  
 
-1. Implement a plan  
-2. Implement a policy  
-3. Implement changes  
-4. Implement a strategy  
-5. Implement new technology  
-6. Implement reforms  
-7. Implement procedures  
-
-**Present Perfect:** They have implemented the new system successfully.  
-**Past Simple:** The company implemented the changes last month.  
-**Past Continuous:** She was implementing the new guidelines during the project.  
-**Past Perfect:** By the time the audit began, they had already implemented the necessary improvements.
+Present Perfect: They have helped each other in turn to complete the project.  
+Past Simple: She spoke in turn during the meeting yesterday.  
+Past Continuous: We were responding in turn to the questions.  
+Past Perfect: By the time the session ended, everyone had acted in turn.
