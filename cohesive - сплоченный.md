@@ -16,3 +16,4 @@ Examples in different tenses:
 - Past Simple: The group was very cohesive during the project.  
 - Past Continuous: The members were working to stay cohesive despite challenges.  
 - Past Perfect: By the end of the workshop, the team had become more cohesive.
+
