@@ -1,4 +1,3 @@
-  Here are 7 simple and popular collocations with the word "awe-inspiring" meaning "впечатляющий":
 
 1. An awe-inspiring view 
 2. An awe-inspiring performance
