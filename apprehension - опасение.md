@@ -1,15 +1,16 @@
 Collocations:
+1. feeling of apprehension
+2. sense of apprehension
+3. growing apprehension
+4. slight apprehension
+5. deep apprehension
+6. initial apprehension
+7. overcome apprehension
 
-grave apprehension
-growing apprehension
-widespread apprehension
-public apprehension
-mounting apprehension
-serious apprehension
-deep apprehension
-legitimate apprehension
-understandable apprehension
-lingering apprehension
+Present Perfect: I have felt a sense of apprehension before every exam.
+Past Simple: She felt a growing apprehension as the storm approached.
+Past Continuous: They were experiencing deep apprehension during the flight.
+Past Perfect: He had overcome his initial apprehension before starting the new job.
 
 Present Perfect: The community has expressed grave apprehension about the proposed development plan.
 Past Simple: The news of the outbreak caused apprehension among the residents.
