@@ -1,12 +1,16 @@
 # Pluck - выдергивать
 
 pluck the eyebrow
+
 Pluck the hair
+
 Pluck a flower - сорвать цветок
+
 Pluck feathers
+
 Pluck a string - потянуть струну (музыкальный термин)
 
-Примерное определение слова "pluck": выдергивать, срывать, вынимать силой.
+
 
 Примеры:
 
