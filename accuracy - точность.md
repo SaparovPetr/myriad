@@ -11,6 +11,8 @@ Collocations:
 6. accuracy level  
 7. accuracy of data  
 
+
+
 Present Perfect: Scientists have improved the accuracy of their measurements recently.  
 Past Simple: The machine achieved high accuracy in the test results.  
 Past Continuous: The technician was ensuring accuracy during the calibration process.  
