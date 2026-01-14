@@ -13,3 +13,4 @@ Present Perfect: She has proven her theory with several experiments.
 Past Simple: The lawyer proved the defendant’s innocence in court.  
 Past Continuous: They were proving the effectiveness of the new method all day.  
 Past Perfect: He had proved his point before the meeting ended.
+
