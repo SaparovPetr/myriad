@@ -1,11 +1,10 @@
-
-• strong lure
-• irresistible lure
-• magnetic lure
-• powerful lure
-• constant lure
-• attractive lure
-• seductive lure
+- strong lure
+- irresistible lure
+- magnetic lure
+- powerful lure
+- constant lure
+- attractive lure
+- seductive lure
 
 Present Perfect: The city has been a strong lure for young professionals.
 Past Simple: The festival proved an irresistible lure for tourists.
