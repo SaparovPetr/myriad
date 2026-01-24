@@ -9,6 +9,10 @@
 7. susceptible to flattery
 
 Present Perfect: He has always been susceptible to flattery.
+
 Past Simple: She was susceptible to every cold last winter.
+
 Past Continuous: The patient was becoming more susceptible to infection.
+
 Past Perfect: They had been susceptible to peer pressure when they were younger.
+
