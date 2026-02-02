@@ -1,19 +1,19 @@
 # Indigestion - несварение
 
-"Indigestion" в значении "несварение" означает неприятное ощущение в желудке, которое может быть вызвано различными факторами, такими как неправильное питание, стресс и другие проблемы пищеварения.
+1. Get indigestion
+2. Have indigestion
+3. Suffer from indigestion
+4. Bad indigestion
+5. Cause indigestion
+6. Give someone indigestion
+7. Terrible indigestion
 
-Некоторые наиболее распространенные словосочетания с "indigestion":
+- She has had indigestion since she ate that spicy curry.
+- He got terrible indigestion after the large meal yesterday.
+- I was suffering from indigestion while we were watching the movie.
+- They had already taken medicine because the rich food had caused indigestion.
 
-1. Chronic indigestion - хроническое несварение
-
-2. Severe indigestion - тяжелое несварение
-
-3. Indigestion symptoms - симптомы несварения
-
-4. Indigestion remedies - средства от несварения
-
-Примеры:
-
+  
 - Present Perfect: I have had chronic indigestion for years, so I try to eat healthy and avoid foods that trigger it.
 - Past Simple: Last night, I had severe indigestion after eating a big meal at a restaurant.
 - Past Continuous: While I was experiencing indigestion symptoms, I decided to take a walk to help ease my discomfort.
