@@ -1,24 +1,14 @@
 # Susceptible - восприимчивый
 
-- susceptible to plant pollen
+1. susceptible to infection
+2. susceptible to colds
+3. susceptible to flattery
+4. susceptible to influence
+5. highly susceptible
+6. particularly susceptible
+7. susceptible to disease
 
-1. susceptible to disease - восприимчивый к заболеваниям
-2. susceptible to criticism - восприимчивый к критике
-3. susceptible to persuasion - восприимчивый к убеждению
-4. susceptible to change - восприимчивый к переменам
-
-Present Perfect:
-The crops have been susceptible to pest damage this year.
-В этом году урожай был восприимчив к вредителям.
-
-Past Simple:
-The regime was susceptible to internal divisions and conflicts.
-Режим был восприимчив к внутренним разногласиям и конфликтам.
-
-Past Continuous:
-The negotiations were proceeding slowly because both sides were susceptible to distrust.
-Переговоры продвигались медленно, потому что обе стороны были восприимчивы к недоверию.
-
-Past Perfect:
-The President had been susceptible to bad advice before making this decision.
-Президент был восприимчив к плохим советам перед принятием этого решения.
+- Present Perfect: He has always been highly susceptible to flattery.
+- Past Simple: She was particularly susceptible to colds last winter.
+- Past Continuous: The researchers were studying why the population was so susceptible to the disease.
+- Past Perfect: They had been susceptible to influence before they developed their own critical thinking.
