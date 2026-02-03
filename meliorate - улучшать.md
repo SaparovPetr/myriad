@@ -1,15 +1,15 @@
-# meliorate - улучшать
+1. meliorate conditions
+2. meliorate the situation
+3. meliorate the land
+4. meliorate relations
+5. meliorate one's status
+6. meliorate living standards
+7. meliorate the soil
 
-**Meliorate** - **улучшать**
-
-### Definition and Usage
-The verb **"meliorate"** means to make something better or to improve it. It is often used in more formal contexts and is derived from the Latin word *meliorare*, meaning "to make better."
-
-### Synonyms:
-- improve
-- enhance
-- amend
-- upgrade
+- Present Perfect: The new policy has meliorated working conditions for thousands of employees.
+- Past Simple: The treaty meliorated relations between the two neighboring countries.
+- Past Continuous: They were actively meliorating the soil throughout the growing season.
+- Past Perfect: By the time the aid arrived, the community had already meliorated its own situation significantly.
 
 ### Examples:
 - **Present Perfect**: The new policies have meliorated the working conditions for employees.
