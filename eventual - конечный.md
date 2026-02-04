@@ -2,12 +2,22 @@
 
 Collocations:
 
-- eventual outcome
-- eventual successor
 - eventual victory
 - eventual decision
 
-Example sentences:
+1. eventual outcome
+2. eventual success
+3. eventual goal
+4. eventual decision
+5. eventual winner
+6. eventual fate
+7. eventual result
+
+- They have already discussed the eventual outcome of the negotiations.
+- The team celebrated their eventual success after many failed attempts.
+- While we were planning the project, we kept the eventual goal in mind.
+- By the time he announced his choice, he had already reached his eventual decision.
+
 
 Present Perfect:
 
