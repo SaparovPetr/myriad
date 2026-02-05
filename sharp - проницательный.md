@@ -12,3 +12,4 @@
 - He demonstrated a sharp wit during the debate last night.
 - The detective was using his sharp eye to examine the evidence.
 - They had already shown sharp observation by noticing the tiny detail before anyone else.
+
