@@ -12,3 +12,4 @@
 - The hotel provided us with fresh towels every morning.
 - While the guide was providing the instructions, the group was getting ready.
 - By the time we arrived, the host had already provided all the necessary equipment.
+ 
