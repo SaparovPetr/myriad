@@ -5,32 +5,15 @@
 - peculiar smell
 - peculiar taste
 
-Peculiar в значении "странный" означает необычный или отличающийся от обычного.
+1. Peculiar smell
+2. Peculiar feeling
+3. Peculiar habit
+4. Peculiar sense of humor
+5. Peculiar look
+6. Peculiar noise
+7. Peculiar taste
 
-Некоторые распространенные словосочетания с peculiar:
-
-1. Peculiar behavior (странные поведение) - это означает, что чье-то поведение выглядит необычным или отличающимся от обычного.
-
-2. Peculiar smell (странный запах) - это означает, что запах выглядит необычным или непривычным.
-
-3. Peculiar taste (странный вкус) - это означает, что вкус выглядит необычным или непривычным.
-
-4. Peculiar appearance (странный вид) - это означает, что внешний вид выглядит необычным или отличающимся от обычного.
-
-Примеры использования "peculiar" в разных временах:
-
-- Present Perfect: I have noticed that his behavior has been peculiar lately.
-
-(Я заметил, что его поведение стало странным в последнее время.)
-
-- Past Simple: The taste of the exotic fruit was peculiar and not to everyone's liking.
-
-(Вкус экзотического фрукта был странным и не всем понравился.)
-
-- Past Continuous: The old house was peculiarly quiet, despite the fact that it was located in a busy street.
-
-(Старый дом был странным образом тихим, несмотря на то, что он находился на оживленной улице.)
-
-- Past Perfect: The peculiar smell had already disappeared by the time we arrived at the scene.
-
-(Странный запах уже исчез к тому времени, когда мы прибыли на место.)
+- Present Perfect: He has always had a peculiar sense of humor that not everyone understands.
+- Past Simple: We noticed a peculiar smell in the old basement yesterday.
+- Past Continuous: She was giving him a peculiar look throughout the entire meeting.
+- Past Perfect: By the time we arrived, the dog had already made that peculiar noise several times.
