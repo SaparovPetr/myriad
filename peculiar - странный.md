@@ -17,3 +17,4 @@
 - Past Simple: We noticed a peculiar smell in the old basement yesterday.
 - Past Continuous: She was giving him a peculiar look throughout the entire meeting.
 - Past Perfect: By the time we arrived, the dog had already made that peculiar noise several times.
+ 
