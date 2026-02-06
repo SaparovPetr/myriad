@@ -1,3 +1,4 @@
 # Introduce - внедрять
 
-- Introduce an innovation productintroduce a new program.
+- Introduce an innovation product
+- introduce a new program.
