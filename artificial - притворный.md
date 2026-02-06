@@ -1,7 +1,7 @@
 # Artificial - притворный
 
 - Artificial deal
-
+ 
 1. Artificial smile
 2. Artificial laughter
 3. Artificial concern
