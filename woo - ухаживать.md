@@ -1,39 +1,14 @@
 # Woo - ухаживать
 
-He likes woo her.
+1. Woo a client
+2. Woo investors
+3. Woo voters
+4. Woo the public
+5. Woo a girl
+6. Woo someone
+7. Woo the crowd
 
-Четыре самых распространенных словосочетания с глаголом "woo" (ухаживать) и их переводы:
-
-1. Woo someone - Ухаживать за кем-то.
-
-2. Woo a potential customer - Подбирать подход к потенциальному клиенту.
-
-3. Woo voters - Привлекать избирателей.
-
-4. Woo investors - Привлекать инвесторов.
-
-Примеры с глаголом "woo" в разных временах:
-
-1. Present Perfect (Present Perfect):
-
-He has wooed her with romantic gestures and gifts.
-
-Он ухаживал за ней с помощью романтических жестов и подарков.
-
-2. Past Simple (Простое прошедшее):
-
-She wooed him with her charming personality.
-
-Она ухаживала за ним своим очаровательным характером.
-
-3. Past Continuous (Прошедшее продолженное):
-
-They were wooing potential investors during the conference.
-
-Они ухаживали за потенциальными инвесторами на конференции.
-
-4. Past Perfect (Предшествовавшее прошедшее):
-
-By the time they made the final pitch, they had already wooed several key clients.
-
-К тому времени, как они сделали окончательное предложение, они уже ухаживали за несколькими ключевыми клиентами.
+- The company has wooed a major new client with an exclusive offer.
+- He wooed her with flowers and poetry for months.
+- While the politician was wooing voters in the town square, his opponent gave a TV interview.
+- By the time he proposed, he had already wooed her family with his charm.
