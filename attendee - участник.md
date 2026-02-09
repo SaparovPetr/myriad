@@ -1,6 +1,5 @@
 # attendee - участник
 
-
 1. conference attendee
 2. event attendee
 3. meeting attendee
