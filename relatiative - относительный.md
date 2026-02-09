@@ -11,4 +11,4 @@
 - Present Perfect: The concept of 'beauty' has always been a relative term in art history.
 - Past Simple: The team considered the relative importance of each task before starting the project.
 - Past Continuous: He was explaining the relative motion of the two trains when the bell rang.
-- Past Perfect: By the time the storm arrived, we had already appreciated the relative safety of the shelter.
+- Past Perfect: By the time the storm arrived, we had already appreciated the relative safety of the shelter
