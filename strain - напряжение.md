@@ -12,3 +12,4 @@
 - Past Simple: The financial strain caused many arguments last year.
 - Past Continuous: He was under immense strain while managing the crisis.
 - Past Perfect: The old bridge had borne the strain of heavy traffic for decades before it was replaced.
+
