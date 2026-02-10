@@ -1,37 +1,14 @@
 # Bear in mind - иметь в виду
 
-Вот 4 распространенных словосочетания с выражением bear in mind и их перевод:
+1. Bear in mind that
+2. Bear something in mind
+3. Bear in mind the fact that
+4. Important to bear in mind
+5. Must bear in mind
+6. Always bear in mind
+7. Should bear in mind
 
-1. bear in mind - иметь в виду
-
-2. bear this in mind - не забывайте об этом
-
-3. bearing in mind - принимая во внимание
-
-4. borne in mind - принято во внимание
-
-Примеры:
-
-Present Perfect:
-
-I have borne in mind your advice when making this decision.
-
-Я принял во внимание ваш совет, когда принимал это решение.
-
-Past Simple:
-
-She bore in mind his preferences when choosing a gift.
-
-Она имела в виду его предпочтения, когда выбирала подарок.
-
-Past Continuous:
-
-We were bearing in mind the weather forecast when planning the trip.
-
-Мы принимали во внимание прогноз погоды, когда планировали поездку.
-
-Past Perfect:
-
-She had borne in mind his dietary restrictions while cooking dinner.
-
-Она приняла во внимание его диетические ограничения, когда готовила ужин.
+- Present Perfect: I have always borne in mind your advice about saving money.
+- Past Simple: She bore in mind the warning and did not go out alone at night.
+- Past Continuous: He was bearing in mind the deadline while he worked on the project.
+- Past Perfect: We had borne the map in mind, so we didn't get lost.
