@@ -1,24 +1,19 @@
 # Crave - жаждать
 
-- crave of water
 
 I crave our meeting.
 
 And left me cravin' for more summer wine.
 
-Выражение "crave" обычно используется для выражения сильного желания или страсти к чему-либо или кому-либо. Ниже приведены четыре распространенных словосочетания с "crave":
+1. Crave attention
+2. Crave chocolate
+3. Crave success
+4. Crave affection
+5. Crave solitude
+6. Crave a cigarette
+7. Crave recognition
 
-1. Crave attention - жаждать внимания
-
-2. Crave food - жаждать еды
-
-3. Crave excitement - жаждать волнения
-
-4. Crave love - жаждать любви
-
-Примеры:
-
-- Present Perfect: I have been craving pizza all week, so I think we should order one tonight.
-- Past Simple: Yesterday, I was craving something sweet, so I went to the store and bought a box of chocolates.
-- Past Continuous: She was craving adventure, so she quit her job and traveled around the world.
-- Past Perfect: By the time they got to the restaurant, they had been craving sushi for days.
+- She has craved recognition for her work for many years.
+- He craved a cold drink after the long, hot run.
+- They were craving pizza while watching the movie last night.
+- I had craved that moment of peace long before I finally achieved it.
