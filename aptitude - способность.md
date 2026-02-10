@@ -1,5 +1,19 @@
 # Aptitude - способность
 
+1. Natural aptitude
+2. Innate aptitude
+3. Academic aptitude
+4. Special aptitude
+5. Mechanical aptitude
+6. Aptitude test
+7. Aptitude for learning
+
+- She has demonstrated a natural aptitude for languages and has already mastered three.
+- He discovered his innate aptitude for music when he first sat at a piano as a child.
+- They were taking an aptitude test while we were discussing their career options.
+- She had already shown a remarkable aptitude for mathematics before she started university.
+
+
 Словосочетания с выражением "aptitude" (способность):
 
 1. natural aptitude - природная способность
