@@ -1,29 +1,14 @@
 # Outshine - затмевать
 
-Вот 4 распространенных словосочетания с выражением outshine в значении затмевать:
+1. outshine the competition
+2. outshine the stars
+3. outshine everyone
+4. outshine the sun
+5. outshine all others
+6. outshine in brilliance
+7. outshine one's rivals
 
-1. Outshine others - затмевать других
-
-2. Outshine expectations - превзойти ожидания
-
-3. Outshine the competition - перещеголять конкурентов
-
-4. Outshine previous records - побить предыдущие рекорды
-
-Примеры предложений:
-
-Present Perfect:
-
-The young violinist has outshone her fellow musicians in the orchestra. - Юная скрипачка затмила своих коллег-музыкантов в оркестре.
-
-Past Simple:
-
-Her performance outshone all others at the talent show. - Её выступление затмило все остальные на шоу талантов.
-
-Past Continuous:
-
-The star was outshining his co-actors throughout the movie. - Звезда затмевала своих партнёров по фильму на протяжении всего фильма.
-
-Past Perfect:
-
-The athlete had outshone his opponents in the previous championships. - Спортсмен побил своих соперников на предыдущих чемпионатах.
+- Her recent performance has outshone all her previous work.
+- His talent outshone every other player on the field that day.
+- While others were struggling, she was outshining her classmates with ease.
+- By the time he arrived, the new prodigy had already outshone the former champion.
