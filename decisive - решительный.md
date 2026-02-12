@@ -1,3 +1,8 @@
 # Decisive - решительный
 
-- decisive personDecisive sportsmanDecisive replyYou need to be more decisive.
+- decisive person
+- Decisive sportsman
+- Decisive reply
+
+
+You need to be more decisive.
