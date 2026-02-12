@@ -5,13 +5,13 @@
 
 Childrens take after parents habits.
 
-• take after someone
-• take after your parents
-• take after a family member
-• take after a relative
-• take after your mother/father
-• take after your grandparents
-• take after an older sibling
+- take after someone
+- take after your parents
+-  take after a family member
+- take after a relative
+- take after your mother/father
+- take after your grandparents
+- take after an older sibling
 
 Present Perfect:
 She has taken after her artistic grandmother.
