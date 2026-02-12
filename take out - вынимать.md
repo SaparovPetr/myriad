@@ -2,7 +2,7 @@
 
 - take out a wallet
 
-- 1. Take out the trash  
+1. Take out the trash  
 2. Take out the knife  
 3. Take out the book  
 4. Take out the key  
