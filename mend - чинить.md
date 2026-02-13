@@ -1,28 +1,14 @@
 # Mend - чинить
 
-"Mend" означает "чинить", "ремонтировать".
+1. mend clothes
+2. mend a fence
+3. mend a roof
+4. mend shoes
+5. mend a net
+6. mend a relationship
+7. mend a broken heart
 
-Некоторые самые распространенные словосочетания с "mend":
-
-1. mend a broken heart - чинить разбитое сердце
-2. mend a fence - починить забор
-3. mend a tear - заделать дыру, разрыв
-4. mend clothes - чинить одежду
-
-Примеры предложений в разных временах:
-
-Present Perfect:
-
-- I have mended my bike.
-
-Past Simple:
-
-- She mended her dress yesterday. (Она починила свое платье вчера.)
-
-Past Continuous:
-
-- They were mending the roof when it started to rain. (Они чинили крышу, когда начался дождь.)
-
-Past Perfect:
-
-- By the time he arrived, she had already mended the fence. (К тому времени, когда он прибыл, она уже починила забор.)
+- Present Perfect: She has finally mended her relationship with her brother.
+- Past Simple: The cobbler mended my shoes perfectly.
+- Past Continuous: He was mending the fishing net when it started to rain.
+- Past Perfect: By the time the guests arrived, they had already mended the broken fence.
