@@ -1,7 +1,7 @@
-burning hatred
-intense hatred
-blind hatred
-deep-seated hatred
+- burning hatred
+- intense hatred
+- blind hatred
+- deep-seated hatred
 
 Present Perfect:
 For years, the two tribes have harbored a deep-seated hatred for each other.
