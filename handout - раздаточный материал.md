@@ -1,33 +1,14 @@
 # Handout - раздаточный материал
 
-- handout for presentation
+1. Prepare a handout
+2. Distribute handouts
+3. Use a handout
+4. Provide a handout
+5. Include in a handout
+6. Refer to the handout
+7. Create a handout
 
-Handout в значении "раздаточный материал" означает любой вид печатной или электронной информации, который раздается аудитории во время лекции, презентации или другого мероприятия с целью облегчить понимание и запоминание материала.
-
-Некоторые распространенные словосочетания с handout:
-
-1. Give out handouts (раздавать раздаточные материалы) - это означает дать каждому участнику мероприятия копию или доступ к материалам, которые были подготовлены для данного мероприятия.
-
-2. Handout materials (раздаточные материалы) - это просто название для любых материалов, которые будут раздаваться на мероприятии.
-
-3. Downloadable handouts (скачиваемые раздаточные материалы) - это означает, что материалы, которые будут раздаваться на мероприятии, могут быть загружены из интернета и распечатаны участниками мероприятия.
-
-4. Handout packets (пакеты раздаточных материалов) - это означает, что все материалы, которые будут раздаваться на мероприятии, будут собраны вместе в одном пакете.
-
-Примеры использования "handout" в разных временах:
-
-- Present Perfect: The speaker has given out the handouts to the attendees.
-
-(Докладчик раздал раздаточные материалы участникам.)
-
-- Past Simple: The attendees received the handouts at the beginning of the workshop.
-
-(Участники получили раздаточные материалы в начале семинара.)
-
-- Past Continuous: The speaker was handing out the handouts when the projector suddenly stopped working.
-
-(Докладчик раздавал раздаточные материалы, когда проектор внезапно перестал работать.)
-
-- Past Perfect: The attendees had already received the handouts before the speaker started the presentation.
-
-(Участники уже получили раздаточные материалы, когда докладчик начал презентацию.)
+- The teacher has prepared a detailed handout for today's workshop.
+- She distributed the handouts at the start of the lecture.
+- While the presenter was speaking, the audience was following along on the handout.
+- I had already studied the handout before the meeting, so I was well-prepared.
