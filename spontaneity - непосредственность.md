@@ -8,7 +8,7 @@ Collocations with "spontaneity":
 6. child-like spontaneity
 7. creative spontaneity
 
-Present Perfect: The team-building exercises have increased spontaneity among colleagues.
-Past Simple: Her spontaneity charmed everyone at the party last night.
-Past Continuous: While they were traveling, they were enjoying the spontaneity of each day's adventures.
-Past Perfect: By the time the interview ended, his spontaneity had already impressed the panel.
+- Present Perfect: The team-building exercises have increased spontaneity among colleagues.
+- Past Simple: Her spontaneity charmed everyone at the party last night.
+- Past Continuous: While they were traveling, they were enjoying the spontaneity of each day's adventures.
+- Past Perfect: By the time the interview ended, his spontaneity had already impressed the panel.
