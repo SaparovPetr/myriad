@@ -1,5 +1,6 @@
 # ascertain - выяснять
 
+- ascertain the details 
 - ascertain a route
 - ascertain a source of problem
 - Ascertain the way
