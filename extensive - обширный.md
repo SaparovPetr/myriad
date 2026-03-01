@@ -2,15 +2,10 @@
 - Extensive view 
 - Extensive collection
 - Extensive driveway
-
- Here are 4 more collocations with "extensive" in the meaning of обширный:
-
 - extensive knowledge
 - extensive experience 
 - extensive vocabulary
 - extensive menu
-
-Example sentences in different tenses:
 
 Present Perfect: 
 The professor has extensive knowledge of European history.
