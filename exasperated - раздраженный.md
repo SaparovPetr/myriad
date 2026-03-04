@@ -4,19 +4,15 @@
 - Exasperated by failure
 - Exasperated by rudeness
 - Exasperated by results
-
-I was exasperated my failure.
-
-Why do you look so exasperated?
-
-Here are 4 popular collocations with the word "exasperated" and example sentences in different verb tenses:
-
-Collocations:
-
 - Exasperated sigh
 - Exasperated tone of voice
 - Exasperated expression
 - Exasperated by delays
+
+I was exasperated by my failure.
+
+Why do you look so exasperated?
+
 
 Present Perfect:
 
