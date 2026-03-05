@@ -1,17 +1,13 @@
 
-1. Resent unfair treatment
-2. Resent someone's behavior
-3. Resent being ignored
-4. Resent criticism  
+1. Resent the fact
+2. Resent the way
+3. Resent someone for something
+4. Deeply resent
+5. Bitterly resent
+6. Resent the implication
+7. Resent the intrusion
 
-Present Perfect: 
-I have resented his unkind comments over the years.
-
-Past Simple:
-I resented her taking credit for my work.  
-
-Past Continuous: 
-I was resenting his lack of support while I struggled.
-
-Past Perfect:
-I had resented their preferential treatment long before protesting.
+- She has resented the fact that she was overlooked for promotion.
+- He resented the way they spoke to him.
+- They were resenting every moment of the tedious meeting.
+- She had resented his success long before she admitted it.
