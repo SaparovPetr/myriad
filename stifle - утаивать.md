@@ -1,4 +1,3 @@
-Here are 7 collocations with "stifle" meaning "утаивать" (though note that "stifle" more commonly means "suppress" or "restrain") and example sentences in different tenses:
 
 Collocations:
 - stifle information
