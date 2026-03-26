@@ -1,7 +1,4 @@
-Here are 4 more simple and popular collocations with the phrase "steer clear of" and an example sentence in different tenses:
-
-Collocations:
-
+- steer clear of pits on the road
 - Steer clear of trouble
 - Steer clear of danger
 - Steer clear of conflicts
