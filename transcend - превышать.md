@@ -2,8 +2,6 @@
 
 - transcend the possibilities
 - Transcend the limit
-  Here are some collocations for using "transcend" to mean "превышать" (to surpass, exceed, go beyond):
-
 - Transcend expectations
 - Transcend boundaries
 - Transcend limitations
