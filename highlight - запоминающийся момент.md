@@ -3,32 +3,15 @@
 - highlight of the performance
 - Highlight of speech
 
-Самые распространенные словосочетания с выражением "highlight" в значении "запоминающийся момент" включают:
+1. A highlight of the trip
+2. The highlight of the show
+3. A real highlight
+4. The main highlight
+5. A particular highlight
+6. One of the highlights
+7. The absolute highlight
 
-1. "The highlight of the event" (высший пик мероприятия)
-
-1. "One of the highlights" (один из ярких моментов)
-
-1. "To experience a highlight" (пережить запоминающийся момент)
-
-1. "The highlight of my day/week/year" (особенный момент в моем дне/неделе/году)
-
-Примеры с использованием "highlight" в разных временах:
-
-- Present Perfect (Present Perfect): I have highlighted the most important points in my presentation.
-
-(Я выделил самые важные моменты в моей презентации.)
-
-- Past Simple (Прошедшее простое): She highlighted her achievements during the interview yesterday.
-
-(Вчера она подчеркнула свои достижения во время собеседования.)
-
-- Past Continuous (Прошедшее продолженное): They were highlighting the key features of the product while the customers were browsing.
-
-(Они подчеркивали основные характеристики продукта, пока клиенты просматривали.)
-
-- Past Perfect (Прошедшее совершенное): By the time I arrived, the team had already highlighted the main issues.
-
-(К моменту моего прибытия команда уже выделила основные проблемы.)
-
-Надеюсь, это помогло!
+- Present Perfect: The concert has been the absolute highlight of my year.
+- Past Simple: The sunset over the mountains was the main highlight of our hike.
+- Past Continuous: While we were touring the museum, the curator's talk was becoming the real highlight for everyone.
+- Past Perfect: By the time we left, we had agreed that seeing the northern lights was a particular highlight of the entire journey.
