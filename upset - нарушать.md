@@ -1,17 +1,15 @@
 # upset - нарушать
 Collocations:
 
-1. violate the law
-2. violate human rights
-3. violate regulations
-4. violate privacy
-5. violate agreements
-6. violate rules
-7. violate sovereignty
+1. Upset the balance
+2. Upset the plans
+3. Upset the apple cart
+4. Upset the system
+5. Upset the routine
+6. Upset the natural order
+7. Upset the equilibrium
 
-Examples:
-
-- Present Perfect: The company has violated the law by not following safety regulations.
-- Past Simple: He violated the agreement and faced serious consequences.
-- Past Continuous: They were violating human rights during the conflict.
-- Past Perfect: By the time the investigation started, they had already violated several regulations.
+- The new policy has upset the balance of power in the region.
+- The sudden rain upset our plans for a picnic.
+- While they were negotiating the deal, his careless comment was upsetting the apple cart.
+- The introduction of the new software had upset the entire office system before they found a fix.
