@@ -1,12 +1,8 @@
 
-Here are 4 more simple and popular English collocations with the word "crane":
-
 1. Crane in the sky
 2. Crane's long neck  
 3. CraneStanding on one leg  
 4. Crane builds nest
-
-And here is an intermediate level example sentence using "crane" in different tenses with simplified vocabulary:
 
 Present Perfect: 
 I have spotted the crane in the marsh each spring.  
