@@ -1,36 +1,14 @@
 # Crook - изгибать
 
-- crook the bar
-- Crook a stick
-- Crook a wire by coil
-  Unfortunately, "crook" does not mean "изгибать" (to bend/curve) in English. Here are some words that do convey that meaning along with related collocations:
+1. Crook a finger
+2. Crook an arm
+3. Crook the elbow
+4. Crook a knee
+5. Crook a leg
+6. Crook a neck
+7. Crook a smile
 
-Words meaning "to bend":
-
-- Bend
-- Curve
-- Twist
-- Distort
-- Bow
-- Flex
-
-Collocations:
-
-- Bend a wire
-- Bend the rules
-- Bend the knee
-- Bend light
-- Curve a path
-- Bow under pressure
-
-Example sentences:
-
-Present Perfect: Engineers have learned how to bend light to hide objects.
-
-Past Simple: The ribbon curled nicely after I twisted it around the scissors.
-
-Past Continuous: The dancer was bending gracefully during her solo performance.
-
-Past Perfect: The blacksmith had already curved the sword into shape through hours of intense heat.
-
-Please provide the Russian word again that matches your intended meaning for "crook" and I would be happy to suggest appropriate English words/phrases.
+- She has crooked her finger to beckon me over.
+- He crooked his arm to carry the box more easily.
+- The heron was standing on one leg, its other leg crooked at the knee.
+- By the time I arrived, he had already crooked his neck to see the screen.
