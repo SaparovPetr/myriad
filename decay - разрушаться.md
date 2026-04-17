@@ -1,23 +1,24 @@
 # Decay - разрушаться
 
-- decayded wall
-- make decay
-- Bridge was decayded
+
+1. Decay rate 
+2. Tooth decay
+3. Urban decay
+4. Moral decay
+5.  The decay of infrastructure
+6.  The decay of traditional values
+7.  rapid decay
+4. radioactive decay
+6. social decay
+7. organic decay
+
+- The old neighborhood has decayed significantly over the last twenty years. (Present Perfect)
+- The wooden structure decayed after years of exposure to the damp climate. (Past Simple)
+- While the abandoned fruit was decaying in the bowl, it attracted many flies. (Past Continuous)
+- By the time archaeologists found the remains, most of the soft tissue had already decayed. (Past Perfect)
 
 Sugar makes your teeth decay.
 
-1. Decay rate - скорость разложения
-
-2. Tooth decay - кариес зубов
-
-3. Urban decay - городской упадок
-
-4. Moral decay - моральный упадок
-
-- The decay of infrastructure
-- The decay of traditional values
-
-Примеры:
 
 - Present Perfect: The old house has decayed over time, and it's now in a state of disrepair.
 - Past Simple: The fruit had decayed by the time I got to the store, so I had to buy something else.
