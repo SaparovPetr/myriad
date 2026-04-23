@@ -1,26 +1,14 @@
 # Rash - опрометчивый
 
-- Rash act
+1. Rash decision
+2. Rash promise
+3. Rash action
+4. Rash words
+5. Rash judgment
+6. Rash move
+7. Rash act
 
-"Rash" - это прилагательное, которое означает "опрометчивый", "необдуманный", "безрассудный".
-
-Некоторые распространенные словосочетания с "rash":
-
-1. Rash decision - опрометчивое решение
-
-2. Rash behavior - опрометчивое поведение
-
-3. Rash action - опрометчивое действие
-
-4. Rash move - опрометчивый шаг
-
-Примеры:
-
-- Present Perfect: I have made a rash decision and now I regret it. (Я принял опрометчивое решение и теперь сожалею об этом.)
-- Past Simple: He acted rashly and got himself into trouble. (Он поступил опрометчиво и попал в неприятности.)
-- Past Continuous: They were being rash and didn't consider the consequences of their actions. (Они были опрометчивы и не учитывали последствия своих действий.)
-- Past Perfect: She realized that she had made a rash decision when it was too late. (Она поняла, что приняла опрометчивое решение, когда было уже поздно.)
-
-Уровень B1 пример:
-
-- Past Simple: Jack acted rashly and quit his job without having another one lined up. (Джек поступил опрометчиво и уволился с работы, не имея при этом другой готовой работы.)
+- She has made a rash decision that she now regrets.
+- He made a rash promise to finish the work in one day.
+- While they were arguing, he was speaking in rash words he couldn't take back.
+- He had acted with rash judgment before he heard the full story.
