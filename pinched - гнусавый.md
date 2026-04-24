@@ -1,19 +1,14 @@
 # pinched - гнусавый
 
-### Definition of "Pinched"
+1. pinched voice
+2. pinched tone
+3. pinched sound
+4. pinched nose
+5. pinched speech
+6. pinched quality
+7. pinched affect
 
-**Pinched** (adjective) typically refers to a **strained or tight expression**, often associated with discomfort or worry. It can also describe a nasal voice, sometimes referred to as "nasal" or "twangy."
-
-### Usage Examples
-
-1. **Present Perfect**: I have noticed that she sounds pinched when she speaks.
-2. **Past Simple**: He had a pinched expression on his face during the meeting.
-3. **Past Continuous**: They were speaking in a pinched voice due to their cold.
-4. **Past Perfect**: She had felt pinched after a long day of stress.
-
-### Related Expressions
-
-- **Pinched face**: Indicates a tight or strained look, often due to stress or discomfort.
-- **Pinched tone**: Refers to a voice that sounds nasal or strained.
-
-Let me know if you need more information or examples!
+- I have always spoken with a pinched voice since my sinus surgery.
+- He pinched his nose and complained about the acrid smell.
+- She was using a pinched tone while reading the story to the children.
+- By the time the concert started, the singer had developed a pinched sound from the cold.
