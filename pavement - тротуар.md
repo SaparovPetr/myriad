@@ -1,3 +1,17 @@
 # Pavement - тротуар
 
-- pedestrian pavement Wide pavement Самые распространенные словосочетания с "pavement" в значении тротуара:1. Sidewalk pavement - тротуарная плитка2. Cracked pavement - треснувший тротуар3. Concrete pavement - бетонный тротуар4. Paved pavement - вымощенный тротуарПримеры использования "pavement" в разных временах:Present Perfect: The city has recently repaired the pavement on this street. (Город недавно отремонтировал тротуар на этой улице.)Past Simple: She tripped and fell on the pavement yesterday. (Она споткнулась и упала на тротуаре вчера.)Past Continuous: They were walking on the pavement when it started to rain. (Они шли по тротуару, когда начался дождь.)Past Perfect: By the time she reached the end of the street, she had noticed all the cracked pavement. (К тому моменту, когда она добралась до конца улицы, она заметила все треснувшие участки тротуара.)
+1. hit the pavement
+2. walk on the pavement
+3. step off the pavement
+4. crack in the pavement
+5. pavement artist
+6. pavement cafe
+7. slip on the pavement
+
+Present Perfect: Someone has just hit the pavement after tripping over the curb.
+
+Past Simple: She walked on the pavement to get to the bus stop yesterday.
+
+Past Continuous: He was stepping off the pavement when a bicycle nearly hit him.
+
+Past Perfect: They had already noticed a crack in the pavement before the city workers arrived.
