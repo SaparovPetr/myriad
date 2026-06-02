@@ -13,30 +13,15 @@ It's merely my assumption.
 
 It's just an assumption.
 
-Вот 4 распространенных словосочетания с выражением assumption в значении предположение:
+1. make an assumption
+2. based on the assumption
+3. underlying assumption
+4. correct assumption
+5. false assumption
+6. working assumption
+7. challenge an assumption
 
-1. Make an assumption - делать предположение
-
-2. Base on assumption - основываться на предположении
-
-3. Question an assumption - ставить под сомнение предположение
-
-4. Prove an assumption wrong - опровергнуть предположение
-
-Примеры предложений:
-
-Present Perfect:
-
-Scientists have made several assumptions about the origins of the universe. - Ученые выдвинули несколько предположений о происхождении вселенной.
-
-Past Simple:
-
-The detective based his theory on the assumption that the suspect had an accomplice. - Детектив основал свою теорию на предположении, что у подозреваемого был сообщник.
-
-Past Continuous:
-
-The teacher was questioning the assumptions underlying the student's experiment. - Учитель ставил под сомнение предположения, лежащие в основе эксперимента ученика.
-
-Past Perfect:
-
-Recent evidence had proven their initial assumptions wrong. - Недавние доказательства опровергли их первоначальные предположения.
+- Present Perfect: She has made a false assumption about his intentions.
+- Past Simple: He based his decision on a correct assumption.
+- Past Continuous: They were making a working assumption while the data was missing.
+- Past Perfect: By the time the truth came out, she had already operated under a false assumption.
