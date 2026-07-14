@@ -2,13 +2,13 @@
 
 We traveled on the coach. It calles crazy buss in Sri Lanka
 
-• take a coach
-• board a coach
-• travel by coach
-• book a coach
-• catch a coach
-• ride a coach
-• luxury coach
+- take a coach
+- board a coach
+- travel by coach
+- book a coach
+- catch a coach
+- ride a coach
+- luxury coach
 
 Present Perfect:
 We have coached to Paris several times this year.
