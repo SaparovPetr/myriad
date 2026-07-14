@@ -1,12 +1,12 @@
 # pour - наливать
 
-• pour coffee
-• pour tea
-• pour milk
-• pour water
-• pour juice
-• pour wine
-• pour drink
+- pour coffee
+- pour tea
+- pour milk
+- pour water
+- pour juice
+- pour wine
+- pour drink
  
 Present Perfect:
 I have poured orange juice into the glass.
