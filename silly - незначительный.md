@@ -4,13 +4,13 @@
 - silly problem
 - Silly point
 
-• silly mistake
-• silly idea
-• silly question
-• silly behavior
-• silly comment
-• silly argument
-• silly excuse
+- silly mistake
+- silly idea
+- silly question
+- silly behavior
+- silly comment
+- silly argument
+- silly excuse
 
 Present Perfect:
 She has made some silly mistakes in her report.
