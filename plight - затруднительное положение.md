@@ -1,31 +1,14 @@
 # Plight - затруднительное положение
 
-I am in the plight.
+1. economic plight
+2. dire plight
+3. human plight
+4. desperate plight
+5. financial plight
+6. current plight
+7. tragic plight
 
-Вот 4 распространенных словосочетания с словом "plight":
-
-1. To be in a sorry plight - находиться в плачевном положении
-
-2. To plead someone's plight - умолять о помощи кому-л. в затруднительном положении
-
-3. To bring attention to sb's plight - привлечь внимание к чьему-л. затруднительному положению
-
-4. To rescue sb from their plight - вызволить кого-л. из затруднительного положения
-
-Примеры:
-
-Present Perfect:
-
-The charity has brought attention to the plight of homeless people.
-
-Past Simple:
-
-He pleaded my plight to the judge.
-
-Past Continuous:
-
-The woman was in a sorry plight when the police found her.
-
-Past Perfect:
-
-I had rescued my friend from his plight by lending him money.
+- Present Perfect: The government has acknowledged the economic plight of the region.
+- Past Simple: The charity highlighted the desperate plight of the refugees during the conference.
+- Past Continuous: The documentary was showing the tragic plight of the endangered species.
+- Past Perfect: By the time help arrived, the town had shared its dire plight with the media.
