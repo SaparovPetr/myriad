@@ -1,30 +1,14 @@
 # Hasten - торопиться
 
-- hasten to the client
-- hasten to the airport
-- hasten to work
+1 hasten to add
+2 hasten to say
+3 hasten to assure
+4 hasten to explain
+5 hasten to point out
+6 hasten to emphasize
+7 hasten to mention
 
-Вот 4 распространенных словосочетания с глаголом "hasten" в значении "торопиться":
-
-- hasten to do something - торопиться сделать что-то
-- hasten to get somewhere - торопиться куда-то попасть
-- hasten to finish - торопиться закончить
-- hasten to leave - торопиться уйти
-
-Примеры:
-
-Present Perfect:
-
-She has hastened to get ready for work.
-
-Past Simple:
-
-I hastened to catch the last train yesterday.
-
-Past Continuous:
-
-He was hastening to submit the assignment on time.
-
-Past Perfect:
-
-They had hastened to evacuate before the storm.
+- I have hastened to add a note before sending the letter.
+- I hastened to add a note before sending the letter.
+- I was hastening to add a note when the phone rang.
+- I had hastened to add a note before the letter was sent.
